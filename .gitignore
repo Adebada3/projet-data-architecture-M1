@@ -1,21 +1,22 @@
-# Données brutes (trop lourdes pour GitHub)
+# Données (trop lourdes)
 data/raw/
 data/silver/
 data/gold/
 
-# Environnements Python
+# Python
 __pycache__/
 *.pyc
 .env
 venv/
 
 # Node
+node_modules/
 front/node_modules/
 front/dist/
+dist/
 
 # Mac
 .DS_Store
 
-# Fichiers temporaires
-*.csv.gz
-records*.json
+# Logs
+*.log
