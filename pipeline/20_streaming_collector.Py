@@ -86,7 +86,7 @@ async def main():
         print(f"\n[Batch #{batch_num}] {datetime.now().strftime('%H:%M:%S')}")
 
         # Vélib' toutes les 60 secondes
-        if now - last_velib >= 60:
+        if now - last_velib >= 30:
             try:
                 nb, total = await collect_velib()
                 last_velib = now
@@ -96,7 +96,7 @@ async def main():
                 print(f"  ⚠️  Vélib' erreur : {e}")
 
         # Qualité air toutes les 5 minutes
-        if now - last_air >= 300:
+        if now - last_air >= 40:
             try:
                 nb = await collect_air()
                 last_air = now
@@ -106,7 +106,7 @@ async def main():
                 print(f"  ⚠️  Air erreur : {e}")
 
         # Compteurs vélo toutes les 2 minutes
-        if now - last_velo >= 120:
+        if now - last_velo >= 35:
             try:
                 nb, total = await collect_velo()
                 last_velo = now
@@ -115,7 +115,7 @@ async def main():
             except Exception as e:
                 print(f"  ⚠️  Vélo erreur : {e}")
 
-        await asyncio.sleep(15)  # vérifie toutes les 15 secondes
+        await asyncio.sleep(10)  # vérifie toutes les 15 secondes
 
 if __name__ == "__main__":
     try:

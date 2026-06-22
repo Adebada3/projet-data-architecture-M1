@@ -1,0 +1,2177 @@
+{
+  "velib_history": {
+    "count": 12,
+    "derniers_3": [
+      {
+        "timestamp": "2026-06-22T12:40:19.807000",
+        "nb_stations": 100,
+        "total_velos_dispo": 1251,
+        "total_electriques": 517,
+        "snapshot": [
+          {
+            "id": "32304",
+            "nom": "Charcot - Benfleet",
+            "velos": 6,
+            "places": 22
+          },
+          {
+            "id": "6003",
+            "nom": "Saint-Sulpice",
+            "velos": 1,
+            "places": 20
+          },
+          {
+            "id": "6108",
+            "nom": "Saint-Romain - Cherche-Midi",
+            "velos": 2,
+            "places": 15
+          },
+          {
+            "id": "25006",
+            "nom": "Place Nelson Mandela",
+            "velos": 4,
+            "places": 14
+          },
+          {
+            "id": "30002",
+            "nom": "Jean Rostand - Paul Vaillant Couturier",
+            "velos": 33,
+            "places": 4
+          },
+          {
+            "id": "17041",
+            "nom": "Guersant - Gouvion-Saint-Cyr",
+            "velos": 22,
+            "places": 11
+          },
+          {
+            "id": "17026",
+            "nom": "Jouffroy d'Abbans - Wagram",
+            "velos": 4,
+            "places": 34
+          },
+          {
+            "id": "13007",
+            "nom": "Le Brun - Gobelins",
+            "velos": 9,
+            "places": 39
+          },
+          {
+            "id": "42208",
+            "nom": "Place des Marseillais",
+            "velos": 32,
+            "places": 1
+          },
+          {
+            "id": "21010",
+            "nom": "Silly - Galliéni",
+            "velos": 14,
+            "places": 7
+          },
+          {
+            "id": "14108",
+            "nom": "Le Brix et Mesmin - Jourdan",
+            "velos": 4,
+            "places": 16
+          },
+          {
+            "id": "21108",
+            "nom": "Mairie de Clichy",
+            "velos": 14,
+            "places": 34
+          },
+          {
+            "id": "19033",
+            "nom": "Cambrai - Benjamin Constant",
+            "velos": 3,
+            "places": 40
+          },
+          {
+            "id": "17025",
+            "nom": "Chazelles - Courcelles",
+            "velos": 14,
+            "places": 20
+          },
+          {
+            "id": "21326",
+            "nom": "Moulin de Pierre - Abbé Grégoire",
+            "velos": 11,
+            "places": 8
+          },
+          {
+            "id": "21216",
+            "nom": "Louis Lejeune - Barbès",
+            "velos": 5,
+            "places": 20
+          },
+          {
+            "id": "15068",
+            "nom": "Général Martial Valin - Pont du Garigliano",
+            "velos": 15,
+            "places": 1
+          },
+          {
+            "id": "22207",
+            "nom": "Rond-point du Dr Albert Schweitzer",
+            "velos": 9,
+            "places": 12
+          },
+          {
+            "id": "31028",
+            "nom": "Raspail Barbès",
+            "velos": 24,
+            "places": 3
+          },
+          {
+            "id": "17048",
+            "nom": "De Toqueville - Terrasse",
+            "velos": 1,
+            "places": 28
+          }
+        ]
+      },
+      {
+        "timestamp": "2026-06-22T12:39:49.675000",
+        "nb_stations": 100,
+        "total_velos_dispo": 1169,
+        "total_electriques": 481,
+        "snapshot": [
+          {
+            "id": "32304",
+            "nom": "Charcot - Benfleet",
+            "velos": 6,
+            "places": 22
+          },
+          {
+            "id": "9020",
+            "nom": "Toudouze - Clauzel",
+            "velos": 2,
+            "places": 17
+          },
+          {
+            "id": "14014",
+            "nom": "Jourdan - Stade Charléty",
+            "velos": 18,
+            "places": 39
+          },
+          {
+            "id": "5110",
+            "nom": "Lacépède - Monge",
+            "velos": 2,
+            "places": 21
+          },
+          {
+            "id": "6108",
+            "nom": "Saint-Romain - Cherche-Midi",
+            "velos": 1,
+            "places": 16
+          },
+          {
+            "id": "42016",
+            "nom": "Pierre et Marie Curie - Maurice Thorez",
+            "velos": 13,
+            "places": 14
+          },
+          {
+            "id": "30002",
+            "nom": "Jean Rostand - Paul Vaillant Couturier",
+            "velos": 33,
+            "places": 4
+          },
+          {
+            "id": "7003",
+            "nom": "Square Boucicaut",
+            "velos": 25,
+            "places": 34
+          },
+          {
+            "id": "11025",
+            "nom": "Froment - Bréguet",
+            "velos": 2,
+            "places": 41
+          },
+          {
+            "id": "15047",
+            "nom": "Morillons - Dantzig",
+            "velos": 21,
+            "places": 30
+          },
+          {
+            "id": "17026",
+            "nom": "Jouffroy d'Abbans - Wagram",
+            "velos": 2,
+            "places": 36
+          },
+          {
+            "id": "12109",
+            "nom": "Mairie du 12ème",
+            "velos": 9,
+            "places": 20
+          },
+          {
+            "id": "6021",
+            "nom": "Beaux-Arts - Bonaparte",
+            "velos": 9,
+            "places": 9
+          },
+          {
+            "id": "13007",
+            "nom": "Le Brun - Gobelins",
+            "velos": 9,
+            "places": 39
+          },
+          {
+            "id": "21010",
+            "nom": "Silly - Galliéni",
+            "velos": 14,
+            "places": 8
+          },
+          {
+            "id": "2022",
+            "nom": "Saint-Fiacre - Poissonière",
+            "velos": 16,
+            "places": 19
+          },
+          {
+            "id": "17044",
+            "nom": "Porte de Saint-Ouen - Bessières",
+            "velos": 3,
+            "places": 37
+          },
+          {
+            "id": "21326",
+            "nom": "Moulin de Pierre - Abbé Grégoire",
+            "velos": 10,
+            "places": 9
+          },
+          {
+            "id": "20143",
+            "nom": "Ramponeau - Belleville",
+            "velos": 2,
+            "places": 40
+          },
+          {
+            "id": "21216",
+            "nom": "Louis Lejeune - Barbès",
+            "velos": 5,
+            "places": 20
+          }
+        ]
+      },
+      {
+        "timestamp": "2026-06-22T12:39:18.579000",
+        "nb_stations": 100,
+        "total_velos_dispo": 1330,
+        "total_electriques": 522,
+        "snapshot": [
+          {
+            "id": "32304",
+            "nom": "Charcot - Benfleet",
+            "velos": 6,
+            "places": 22
+          },
+          {
+            "id": "11104",
+            "nom": "Charonne - Robert et Sonia Delaunay",
+            "velos": 0,
+            "places": 18
+          },
+          {
+            "id": "6003",
+            "nom": "Saint-Sulpice",
+            "velos": 1,
+            "places": 20
+          },
+          {
+            "id": "7002",
+            "nom": "Vaneau - Sèvres",
+            "velos": 13,
+            "places": 20
+          },
+          {
+            "id": "6108",
+            "nom": "Saint-Romain - Cherche-Midi",
+            "velos": 2,
+            "places": 15
+          },
+          {
+            "id": "30002",
+            "nom": "Jean Rostand - Paul Vaillant Couturier",
+            "velos": 33,
+            "places": 4
+          },
+          {
+            "id": "17041",
+            "nom": "Guersant - Gouvion-Saint-Cyr",
+            "velos": 21,
+            "places": 12
+          },
+          {
+            "id": "17026",
+            "nom": "Jouffroy d'Abbans - Wagram",
+            "velos": 4,
+            "places": 34
+          },
+          {
+            "id": "42208",
+            "nom": "Place des Marseillais",
+            "velos": 32,
+            "places": 1
+          },
+          {
+            "id": "21010",
+            "nom": "Silly - Galliéni",
+            "velos": 14,
+            "places": 7
+          },
+          {
+            "id": "14108",
+            "nom": "Le Brix et Mesmin - Jourdan",
+            "velos": 4,
+            "places": 16
+          },
+          {
+            "id": "21108",
+            "nom": "Mairie de Clichy",
+            "velos": 14,
+            "places": 34
+          },
+          {
+            "id": "19033",
+            "nom": "Cambrai - Benjamin Constant",
+            "velos": 3,
+            "places": 40
+          },
+          {
+            "id": "17025",
+            "nom": "Chazelles - Courcelles",
+            "velos": 14,
+            "places": 20
+          },
+          {
+            "id": "21326",
+            "nom": "Moulin de Pierre - Abbé Grégoire",
+            "velos": 11,
+            "places": 8
+          },
+          {
+            "id": "21216",
+            "nom": "Louis Lejeune - Barbès",
+            "velos": 5,
+            "places": 20
+          },
+          {
+            "id": "15068",
+            "nom": "Général Martial Valin - Pont du Garigliano",
+            "velos": 15,
+            "places": 1
+          },
+          {
+            "id": "22207",
+            "nom": "Rond-point du Dr Albert Schweitzer",
+            "velos": 9,
+            "places": 12
+          },
+          {
+            "id": "17048",
+            "nom": "De Toqueville - Terrasse",
+            "velos": 1,
+            "places": 28
+          },
+          {
+            "id": "44017",
+            "nom": "Jules Guesde - Pont du Port à l'Anglais",
+            "velos": 26,
+            "places": 2
+          }
+        ]
+      }
+    ]
+  },
+  "air_history": {
+    "count": 6,
+    "derniers_3": [
+      {
+        "timestamp": "2026-06-22T12:40:19.929000",
+        "data": [
+          {
+            "annee": "2021",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2200000,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 20000,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 92,
+            "no2_expositionoms_parisiens_airparif": 2200000,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 1000.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 3000.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 4000.0
+          },
+          {
+            "annee": "2019",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2200000,
+            "pm2_5_recommandation_oms": 10,
+            "no2_expositionvr_parisiens_airparif": 250000,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 64,
+            "no2_expositionoms_parisiens_airparif": 250000,
+            "no2_recommandation_oms": 40,
+            "no2_01ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_02ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_03ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_04ardt_expositionvr_parisiens_airparif": 4000.0,
+            "no2_05ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_06ardt_expositionvr_parisiens_airparif": 3000.0,
+            "no2_07ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_08ardt_expositionvr_parisiens_airparif": 6000.0,
+            "no2_09ardt_expositionvr_parisiens_airparif": 6000.0,
+            "no2_10ardt_expositionvr_parisiens_airparif": 23000.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 19000.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": 19000.0,
+            "no2_13ardt_expositionvr_parisiens_airparif": 14000.0,
+            "no2_14ardt_expositionvr_parisiens_airparif": 12000.0,
+            "no2_15ardt_expositionvr_parisiens_airparif": 15000.0,
+            "no2_16ardt_expositionvr_parisiens_airparif": 17000.0,
+            "no2_17ardt_expositionvr_parisiens_airparif": 28000.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 30000.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 26000.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 26000.0
+          },
+          {
+            "annee": "2024",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2100000,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 50,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 97,
+            "no2_expositionoms_parisiens_airparif": 2100000,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": null,
+            "no2_11ardt_expositionvr_parisiens_airparif": null,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": null,
+            "no2_18ardt_expositionvr_parisiens_airparif": null,
+            "no2_19ardt_expositionvr_parisiens_airparif": null,
+            "no2_20ardt_expositionvr_parisiens_airparif": null
+          },
+          {
+            "annee": "2020",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 1500000,
+            "pm2_5_recommandation_oms": 10,
+            "no2_expositionvr_parisiens_airparif": null,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": null,
+            "no2_expositionoms_parisiens_airparif": null,
+            "no2_recommandation_oms": 40,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": null,
+            "no2_11ardt_expositionvr_parisiens_airparif": null,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": null,
+            "no2_18ardt_expositionvr_parisiens_airparif": null,
+            "no2_19ardt_expositionvr_parisiens_airparif": null,
+            "no2_20ardt_expositionvr_parisiens_airparif": null
+          },
+          {
+            "annee": "2023",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2136259,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 2062,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 79,
+            "no2_expositionoms_parisiens_airparif": 2136273,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 120.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": 179.0,
+            "no2_14ardt_expositionvr_parisiens_airparif": 84.0,
+            "no2_15ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_16ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_17ardt_expositionvr_parisiens_airparif": 207.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 59.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 70.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 889.0
+          }
+        ]
+      },
+      {
+        "timestamp": "2026-06-22T12:39:39.358000",
+        "data": [
+          {
+            "annee": "2021",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2200000,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 20000,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 92,
+            "no2_expositionoms_parisiens_airparif": 2200000,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 1000.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 3000.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 4000.0
+          },
+          {
+            "annee": "2019",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2200000,
+            "pm2_5_recommandation_oms": 10,
+            "no2_expositionvr_parisiens_airparif": 250000,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 64,
+            "no2_expositionoms_parisiens_airparif": 250000,
+            "no2_recommandation_oms": 40,
+            "no2_01ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_02ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_03ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_04ardt_expositionvr_parisiens_airparif": 4000.0,
+            "no2_05ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_06ardt_expositionvr_parisiens_airparif": 3000.0,
+            "no2_07ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_08ardt_expositionvr_parisiens_airparif": 6000.0,
+            "no2_09ardt_expositionvr_parisiens_airparif": 6000.0,
+            "no2_10ardt_expositionvr_parisiens_airparif": 23000.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 19000.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": 19000.0,
+            "no2_13ardt_expositionvr_parisiens_airparif": 14000.0,
+            "no2_14ardt_expositionvr_parisiens_airparif": 12000.0,
+            "no2_15ardt_expositionvr_parisiens_airparif": 15000.0,
+            "no2_16ardt_expositionvr_parisiens_airparif": 17000.0,
+            "no2_17ardt_expositionvr_parisiens_airparif": 28000.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 30000.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 26000.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 26000.0
+          },
+          {
+            "annee": "2024",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2100000,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 50,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 97,
+            "no2_expositionoms_parisiens_airparif": 2100000,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": null,
+            "no2_11ardt_expositionvr_parisiens_airparif": null,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": null,
+            "no2_18ardt_expositionvr_parisiens_airparif": null,
+            "no2_19ardt_expositionvr_parisiens_airparif": null,
+            "no2_20ardt_expositionvr_parisiens_airparif": null
+          },
+          {
+            "annee": "2020",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 1500000,
+            "pm2_5_recommandation_oms": 10,
+            "no2_expositionvr_parisiens_airparif": null,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": null,
+            "no2_expositionoms_parisiens_airparif": null,
+            "no2_recommandation_oms": 40,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": null,
+            "no2_11ardt_expositionvr_parisiens_airparif": null,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": null,
+            "no2_18ardt_expositionvr_parisiens_airparif": null,
+            "no2_19ardt_expositionvr_parisiens_airparif": null,
+            "no2_20ardt_expositionvr_parisiens_airparif": null
+          },
+          {
+            "annee": "2023",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2136259,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 2062,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 79,
+            "no2_expositionoms_parisiens_airparif": 2136273,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 120.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": 179.0,
+            "no2_14ardt_expositionvr_parisiens_airparif": 84.0,
+            "no2_15ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_16ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_17ardt_expositionvr_parisiens_airparif": 207.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 59.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 70.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 889.0
+          }
+        ]
+      },
+      {
+        "timestamp": "2026-06-22T12:38:58.213000",
+        "data": [
+          {
+            "annee": "2021",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2200000,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 20000,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 92,
+            "no2_expositionoms_parisiens_airparif": 2200000,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 1000.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 3000.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 4000.0
+          },
+          {
+            "annee": "2019",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2200000,
+            "pm2_5_recommandation_oms": 10,
+            "no2_expositionvr_parisiens_airparif": 250000,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 64,
+            "no2_expositionoms_parisiens_airparif": 250000,
+            "no2_recommandation_oms": 40,
+            "no2_01ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_02ardt_expositionvr_parisiens_airparif": 2000.0,
+            "no2_03ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_04ardt_expositionvr_parisiens_airparif": 4000.0,
+            "no2_05ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_06ardt_expositionvr_parisiens_airparif": 3000.0,
+            "no2_07ardt_expositionvr_parisiens_airparif": 5000.0,
+            "no2_08ardt_expositionvr_parisiens_airparif": 6000.0,
+            "no2_09ardt_expositionvr_parisiens_airparif": 6000.0,
+            "no2_10ardt_expositionvr_parisiens_airparif": 23000.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 19000.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": 19000.0,
+            "no2_13ardt_expositionvr_parisiens_airparif": 14000.0,
+            "no2_14ardt_expositionvr_parisiens_airparif": 12000.0,
+            "no2_15ardt_expositionvr_parisiens_airparif": 15000.0,
+            "no2_16ardt_expositionvr_parisiens_airparif": 17000.0,
+            "no2_17ardt_expositionvr_parisiens_airparif": 28000.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 30000.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 26000.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 26000.0
+          },
+          {
+            "annee": "2024",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2100000,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 50,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 97,
+            "no2_expositionoms_parisiens_airparif": 2100000,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": null,
+            "no2_11ardt_expositionvr_parisiens_airparif": null,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": null,
+            "no2_18ardt_expositionvr_parisiens_airparif": null,
+            "no2_19ardt_expositionvr_parisiens_airparif": null,
+            "no2_20ardt_expositionvr_parisiens_airparif": null
+          },
+          {
+            "annee": "2020",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 1500000,
+            "pm2_5_recommandation_oms": 10,
+            "no2_expositionvr_parisiens_airparif": null,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": null,
+            "no2_expositionoms_parisiens_airparif": null,
+            "no2_recommandation_oms": 40,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": null,
+            "no2_11ardt_expositionvr_parisiens_airparif": null,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": null,
+            "no2_14ardt_expositionvr_parisiens_airparif": null,
+            "no2_15ardt_expositionvr_parisiens_airparif": null,
+            "no2_16ardt_expositionvr_parisiens_airparif": null,
+            "no2_17ardt_expositionvr_parisiens_airparif": null,
+            "no2_18ardt_expositionvr_parisiens_airparif": null,
+            "no2_19ardt_expositionvr_parisiens_airparif": null,
+            "no2_20ardt_expositionvr_parisiens_airparif": null
+          },
+          {
+            "annee": "2023",
+            "pm2_5_expositionvr_parisiens_airparif": 0,
+            "pm2_5_reglementaire": 25,
+            "pm2_5_expositionoms_parisiens_airparif": 2136259,
+            "pm2_5_recommandation_oms": 5,
+            "no2_expositionvr_parisiens_airparif": 2062,
+            "no2_reglementaire": 40,
+            "no2_evolution_expositionvr_parisiens_airparif": 79,
+            "no2_expositionoms_parisiens_airparif": 2136273,
+            "no2_recommandation_oms": 10,
+            "no2_01ardt_expositionvr_parisiens_airparif": null,
+            "no2_02ardt_expositionvr_parisiens_airparif": null,
+            "no2_03ardt_expositionvr_parisiens_airparif": null,
+            "no2_04ardt_expositionvr_parisiens_airparif": null,
+            "no2_05ardt_expositionvr_parisiens_airparif": null,
+            "no2_06ardt_expositionvr_parisiens_airparif": null,
+            "no2_07ardt_expositionvr_parisiens_airparif": null,
+            "no2_08ardt_expositionvr_parisiens_airparif": null,
+            "no2_09ardt_expositionvr_parisiens_airparif": null,
+            "no2_10ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_11ardt_expositionvr_parisiens_airparif": 120.0,
+            "no2_12ardt_expositionvr_parisiens_airparif": null,
+            "no2_13ardt_expositionvr_parisiens_airparif": 179.0,
+            "no2_14ardt_expositionvr_parisiens_airparif": 84.0,
+            "no2_15ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_16ardt_expositionvr_parisiens_airparif": 0.0,
+            "no2_17ardt_expositionvr_parisiens_airparif": 207.0,
+            "no2_18ardt_expositionvr_parisiens_airparif": 59.0,
+            "no2_19ardt_expositionvr_parisiens_airparif": 70.0,
+            "no2_20ardt_expositionvr_parisiens_airparif": 889.0
+          }
+        ]
+      }
+    ]
+  },
+  "velo_history": {
+    "count": 8,
+    "derniers_3": [
+      {
+        "timestamp": "2026-06-22T12:40:20.077000",
+        "nb_compteurs": 50,
+        "total_passages": 0,
+        "data": [
+          {
+            "id_compteur": "100056041-101056041",
+            "nom_compteur": "147 avenue d'Italie S-N",
+            "id": "100056041",
+            "name": "147 avenue d'Italie",
+            "sum_counts": 35,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-12-10",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg",
+            "coordinates": {
+              "lon": 2.35919,
+              "lat": 48.82026
+            },
+            "counter": "Y2H24062251",
+            "photos": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg/https://filer.eco-counter-tools.com/file/37/66c6405ca6ad2f9db06a242352c5336f351b4ec30262e65e4be930a232d2d737/Y2H22125281_20250730150253.jpg/https://filer.eco-counter-tools.com/file/38/48a5f567db211473e616043eb57b6a577731c9e7ea62226d8b5f42cc80c98138/15759129300860.jpg/https://filer.eco-counter-tools.com/file/4c/1a78aaaf5db20f237b832f18d4dddde185077c59646ba76109ec177ccbb7894c/Y2H19070344_20220803092846.jpg/https://filer.eco-counter-tools.com/file/4e/b5929c993d3471ddec400d24f5bc259ae7cd94f1edc055e41398e6b2c0ac8b4e/Y2H19070344_20200818150200.jpg/https://filer.eco-counter-tools.com/file/e2/41056c4eab7ff46b0591085925007c102c5d030ccc8932a903e774e818fdaee2/15977557727270.jpg/https://filer.eco-counter-tools.com/file/e7/66ef735b06aa3767001a7bcda9c75d97abd58721f366416ff557032dbfb37ee7/Y2H19070344_20210810123859.jpg/https://filer.eco-counter-tools.com/file/f9/8cfcff3c6e3a43aa4a8d2a38bfa5556cf04fd60717392e2e8a17f8d5c34848f9/Y2H22125281_20240618131333.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056041",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100036718-103036718",
+            "nom_compteur": "39 quai François Mauriac SE-NO",
+            "id": "100036718",
+            "name": "39 quai François Mauriac",
+            "sum_counts": 62,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-07-12",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+            "coordinates": {
+              "lon": 2.377,
+              "lat": 48.83436
+            },
+            "counter": "Y2H21015068",
+            "photos": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg/https://filer.eco-counter-tools.com/file/1b/6c9013a542a3c751f94c8b9a00db0ad3485054953a37aeddf45830482d5d311b/Y2H17021629_20200818165643.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png/https://filer.eco-counter-tools.com/file/89/a417e0e7a5a6a0be002e6b9f7f43b4db5eb3f1c15aa348294378f2b8d6cfa089/Y2H21015068_20220407102319.jpg/https://filer.eco-counter-tools.com/file/92/8dd0832756788947862701438d96ba9ac1f7524794109c2db14efa91a3e5bc92/Y2H21015068_20220803125012.jpg/https://filer.eco-counter-tools.com/file/9e/f997ab4793874f0832ae24c89ef2cafc87a78e90336527f7e9be38d0f4fec39e/15977626284870.jpg/https://filer.eco-counter-tools.com/file/a3/eb19fabc6ac19ee165b9a3d367b75c23705c0bc2ef3c0b7b4950e921840633a3/15765770808100.jpg/https://filer.eco-counter-tools.com/file/c3/3cc5746fc201948a4f89469db101780cf29dcc2c29e350f53351732871bfa5c3/Y2H17021629_20210810135800.jpg/https://filer.eco-counter-tools.com/file/d4/e8110bccec80e42806d28ea2f102e3cf93875f3e8add5dfa4ea0672af45ee3d4/14997911465211.jpg/https://filer.eco-counter-tools.com/file/d9/e055c4b719c875d6a250c8caf4ed5962c847d9d3b04251f053e86b5d088c2ad9/15767555313320.jpg/https://filer.eco-counter-tools.com/file/f2/1f6decacff618a4b568543f90909d8f562fd951737e6b8f53dbe567d64f87cf2/Y2H21015068_20250729150243.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100036718",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100036719-103036719",
+            "nom_compteur": "18 quai de l'Hôtel de Ville SE-NO",
+            "id": "100036719",
+            "name": "18 quai de l'Hôtel de Ville",
+            "sum_counts": 192,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-07-12",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png",
+            "coordinates": {
+              "lon": 2.35702,
+              "lat": 48.85372
+            },
+            "counter": "Y2H21015012",
+            "photos": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png/https://filer.eco-counter-tools.com/file/54/8946a312899f621b1e2c7007e9f490f297cd915b9dfee93b4c96c557d5179c54/Y2H21015012_20240613112601.jpg/https://filer.eco-counter-tools.com/file/6c/7219aac71d6d7c03b90a5eb4b59de532d908084b261509e268a150be6948b76c/Y2H21015012_20250729103525.jpg/https://filer.eco-counter-tools.com/file/9d/176068e8b3503f6b68c846ec1741b3a744b56aede12fa81bfc29fa2c82f96d9d/X2H19027732_20190507110918.jpg/https://filer.eco-counter-tools.com/file/bd/7b7d73a0893fc9813d303fa82a8aec6a2888b910e721b344fe519737bf51e1bd/14997911939232.jpg/https://filer.eco-counter-tools.com/file/cc/7ee37fd33279ac655cb94dac2f5cabe37169064be3d172305eee095aa8eb48cc/Y2H21015012_20220407113640.jpg/https://filer.eco-counter-tools.com/file/cd/d97fc859bef5a19d217f46db0a4ee144cfc19d12fe12a8f8f8d6d837dd05f3cd/Y2H19027732_20210810183209.jpg/https://filer.eco-counter-tools.com/file/d0/1aba92aeca91f0ea6146e062f7994959da2ade84f8c5cded3b9f1e8424ea98d0/15718218590430.jpg/https://filer.eco-counter-tools.com/file/d7/030e39ece3b9677fd4ab1c1de4370b0613ad1c4cafd810f4b06b6489f8304cd7/Y2H21015012_20220803103347.jpg/https://filer.eco-counter-tools.com/file/db/b61f852e0d3afa4b9be0cdcfe0046cb3bb330efa17c3941fae25199cf2134fdb/14997911938171.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100036719",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100049407-353255860",
+            "nom_compteur": "152 boulevard du Montparnasse E-O",
+            "id": "100049407",
+            "name": "152 boulevard du Montparnasse",
+            "sum_counts": 67,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-07",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+            "coordinates": {
+              "lon": 2.33438,
+              "lat": 48.84017
+            },
+            "counter": "Y2H25113573",
+            "photos": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg/https://filer.eco-counter-tools.com/file/25/0717fd11c1d6320ea94b1da3a5fc3689535ea807158f895f6d9854b6c9cfb125/15977486431090.jpg/https://filer.eco-counter-tools.com/file/40/b0a266d7da6aa81d9d62d801b79865da76032fa8195fd8a05863ecded4498e40/Y2H21015072_20220725180228.jpg/https://filer.eco-counter-tools.com/file/75/8e415a6dcc6c37ea40ceb0e33742220927d4408dca9035f4c82e0c676d877575/Y2H21015072_20240611130940.jpg/https://filer.eco-counter-tools.com/file/ab/745deef771e04b8924c6604c6e8dc37c04857029144dfd534917b9d09020b4ab/Y2H25113573_20260209092518.jpg/https://filer.eco-counter-tools.com/file/c1/e41b6763a01d4eb20c24e2980edc6b71e2bf27b2e43988cac0f003cdd26850c1/Y2H21015072_20250730114009.jpg/https://filer.eco-counter-tools.com/file/e6/f878f67440525b0b655421f986c63209cdfa37dad30b7151bfdd2b993361a7e6/Y2H21015072_20220704182332.jpg/https://filer.eco-counter-tools.com/file/eb/ccbd18787048eef5d2dd8a07e258adf82a5790f11f7715f61440204171aef7eb/15444529154820.jpg/https://filer.eco-counter-tools.com/file/ee/27421ed2c4c5a455ef0dafb4a4fbcbaa97e1d2e68f9268d101d227972eee7dee/Y2H21015072_20220725175806.jpg/https://filer.eco-counter-tools.com/file/f2/204b3fd2189bb9354851dd0ec2258c27b34a987180d54ea2cc65fa2b8c7914f2/Y2H21015072_20220725180122.jpg/https://filer.eco-counter-tools.com/file/fd/b8abd0eab5ee234fc661378e4d8959728488c27da4e4f39036fda84a0cbccffd/Y2H19070373_20210224152726.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100049407",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100042374-109042374",
+            "nom_compteur": "Voie Georges Pompidou SO-NE",
+            "id": "100042374",
+            "name": "Voie Georges Pompidou",
+            "sum_counts": 59,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-12-15",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg",
+            "coordinates": {
+              "lon": 2.27596,
+              "lat": 48.84837
+            },
+            "counter": "Y2H21025335",
+            "photos": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg/https://filer.eco-counter-tools.com/file/68/1dce0451d633e7c432c030664bb1dc9db8403605258bb6cfbb9e76fb9e5d2668/15172173001793.jpg/https://filer.eco-counter-tools.com/file/81/3fa335611bc26cf7cf2ec3822d0618d1ec999581b67ea0e1befd6315ca0a1481/Y2H21025335_20210330155535.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png?filename=15374574611960.png/https://filer.eco-counter-tools.com/file/87/8c6aaf39f1e0063e0fc5aa5c3aa7c0df859d6fed1a89cf863360a16969242e87/Y2H21025335_20210330155549.jpg/https://filer.eco-counter-tools.com/file/ba/5fe72fb52db494f0260e7c0ba04938e1fe49af2d60fb9d2f3b3899a17061ddba/Y2H21025335_20240611161331.jpg/https://filer.eco-counter-tools.com/file/d3/e13e40d3b13aba5096e32a0db43cf614d3d6a285fbeb0f14f751dcc678caecd3/15172173000772.jpg/https://filer.eco-counter-tools.com/file/d8/ca09768c4eec1987378b3757922e8ef18d45c3579185f1c737b0d5c1924fdbd8/Y2H21025335_20250730152026.jpg/https://filer.eco-counter-tools.com/file/dc/ca258975923935a97c60c5ff55bcade8612078a737101f80ba28995f29f01cdc/Y2H21025335_20220802152245.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100042374",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047541-353326452",
+            "nom_compteur": "Pont National SO-NE",
+            "id": "100047541",
+            "name": "Pont National",
+            "sum_counts": 25,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg",
+            "coordinates": {
+              "lon": 2.38448,
+              "lat": 48.82639
+            },
+            "counter": "Y2H22053370",
+            "photos": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg/https://filer.eco-counter-tools.com/file/2a/799b98880f593cad49159a30639b855596a7b8448fcb43d18a3eb2f84098772a/Y2H18086317_20200818152643.jpg/https://filer.eco-counter-tools.com/file/31/b0cfcd9cae5c6be7eb8ab8f1f4a6cbd174ad43ec43da2b36df47c53997e99f31/15439382216460.jpg/https://filer.eco-counter-tools.com/file/46/19833d5d84681f9b0878bafba6e9fd1007874bf69af1261438f71f5fd0f24b46/Y2H18086317_20210810130151.jpg/https://filer.eco-counter-tools.com/file/58/4fc08ec38c1721686c18bd3da1ef49ad32c66f2bd399e0fe81ee6420b0257258/Y2H22053370_20240618143005.jpg/https://filer.eco-counter-tools.com/file/72/1094d4ef6ad32c27d538f9f31b832bd4d4b4efe3f151bbcd145eb850d1c26c72/Y2H18086317_20220407100013.jpg/https://filer.eco-counter-tools.com/file/83/4ac9d84f02dd579da38a278fcb33265550c74b79ac1ff0ff8ad423e0d5480b83/Y2H22053370_20220803150940.jpg/https://filer.eco-counter-tools.com/file/a7/a5586a2924aaa1c432a43f2354c29cd87467c13ddf54a4f2812f61b15f2034a7/Y2H22053370_20220803151051.jpg/https://filer.eco-counter-tools.com/file/eb/5b8bc60150a570dea708c0162dc9b74b7ff74411deb3285a83723fd931bfeaeb/15977572244860.jpg/https://filer.eco-counter-tools.com/file/f8/5e9dd4b050cd9da4231f345a6b474099aba60a16c00bfa912ba7cd43f1fce3f8/Y2H22053370_20220803151326.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047541",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047544-101047544",
+            "nom_compteur": "77 boulevard Richard Lenoir N-S",
+            "id": "100047544",
+            "name": "77 boulevard Richard Lenoir",
+            "sum_counts": 140,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg",
+            "coordinates": {
+              "lon": 2.37212,
+              "lat": 48.86089
+            },
+            "counter": "Y2I19038116",
+            "photos": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg/https://filer.eco-counter-tools.com/file/a9/6bc12dbb7e8977f4dbfbc92958ccaa51a4b8619ae22c9a72005457f0f4255ca9/Y2H18086320_20200819124454.jpg/https://filer.eco-counter-tools.com/file/b7/761499aaa75296bda9206017280303c9b22fb0fedf1a8fc4b956174e754ca5b7/Y2I19038116_20240613122018.jpg/https://filer.eco-counter-tools.com/file/c0/8be5f49579ca4550980fc42b38d2cdc034f8db87fcf87c29aad3b64b613b33c0/15978339122780.jpg/https://filer.eco-counter-tools.com/file/d4/3ee69b4213d25cc8d9bb2f70b1bd29f39a840b0d3393522c85f0bcb4ed429cd4/Y2H18086320_20210811112652.jpg/https://filer.eco-counter-tools.com/file/e2/67a5191c2dfb233cf2d098c3a5b5c3e6b3725df56a08a193c4c52a0822d783e2/15765768365460.jpg/https://filer.eco-counter-tools.com/file/e2/bf93638c61837dbc5a8b8c19fe8e2b660613c147f9214d92ca2cc2d69c4363e2/Y2H18086320_20220802145309.jpg/https://filer.eco-counter-tools.com/file/e7/0e78ab1ef0e1558ed28e3c2caf7d5ef5c4d04f51e365be18377390b69c82e2e7/Y2I19038116_20250729115813.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047544",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047536-101047536",
+            "nom_compteur": "102 boulevard de Magenta SE-NO",
+            "id": "100047536",
+            "name": "102 boulevard de Magenta",
+            "sum_counts": 403,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-11-29",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg",
+            "coordinates": {
+              "lon": 2.35475,
+              "lat": 48.87769
+            },
+            "counter": "Y2H18086312",
+            "photos": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg/https://filer.eco-counter-tools.com/file/21/5b84f531a108dc2abe1dc1d2e1231da228d1cfecb0b84a2441bce8da54eeab21/Y2H18086312_20220802134752.jpg/https://filer.eco-counter-tools.com/file/37/67b4163798426a06286e8fce9a2161f435c131584c8687013dadd7b0c3805337/Y2H18086312_20240612154529.jpg/https://filer.eco-counter-tools.com/file/b6/72970d0bc0a40addd263df5139e511e9a1f6f6ceaaa854fa148b101f375dfeb6/Y2H18086312_20250729102029.jpg/https://filer.eco-counter-tools.com/file/e6/f1722de135aef7122b1bc5f38e53e8f58cd948e19f34eae9de3d8f79f12ba5e6/Y2H18086312_20210811132353.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047536",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047539-101047539",
+            "nom_compteur": "21 boulevard Auguste Blanqui SO-NE",
+            "id": "100047539",
+            "name": "21 boulevard Auguste Blanqui",
+            "sum_counts": 34,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg",
+            "coordinates": {
+              "lon": 2.35373,
+              "lat": 48.83074
+            },
+            "counter": "Y2H22114921",
+            "photos": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg/https://filer.eco-counter-tools.com/file/4e/cb0ec53163a3972a27fb4a06fbb7cf64b74ff78e82470add3144690bcb58144e/Y2H22114921_20240618122257.jpg/https://filer.eco-counter-tools.com/file/5c/1526f97a18f6845eefac473d5b76aed4055e87d15541359eacd31928ee2be05c/Y2H18086315_20220803100106.jpg/https://filer.eco-counter-tools.com/file/86/22afe09d2544d85d66deb0edf62cca114ca8287cf225b246afa67d4efe61d186/15765761696560.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047539",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100044494-353504987",
+            "nom_compteur": "10 avenue de la Grande Armée SE-NO",
+            "id": "100044494",
+            "name": "10 avenue de la Grande Armée",
+            "sum_counts": 63,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2025-01-07",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg",
+            "coordinates": {
+              "lon": 2.2924,
+              "lat": 48.8748
+            },
+            "counter": "X2H20012081",
+            "photos": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg/https://filer.eco-counter-tools.com/file/6f/990cf85630e9a7369683ceca24e8b72b2796b3dbaec82406bfbb8ee9a7dc906f/15765753078770.jpg/https://filer.eco-counter-tools.com/file/93/0f9896bc2167e519ab0b70529ceaeda4f2654ceb86f3b428cae3b1d8ce8ec593/Y2H18034808_20210811095605.jpg/https://filer.eco-counter-tools.com/file/d2/5286f624fca83b5191f9222ff37b5d3088434b1de41aeb8838db9447c7473bd2/Y2H18034808_20240611104602.jpg/https://filer.eco-counter-tools.com/file/e2/7f164e641e5ad325dac8336abb960f02a6c4e826908333cbb1f00f0a8bf42be2/Y2H18034808_20220802130746.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100044494",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100044495-101044495",
+            "nom_compteur": "7 avenue de la Grande Armée NO-SE",
+            "id": "100044495",
+            "name": "7 avenue de la Grande Armée",
+            "sum_counts": 60,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-07-27",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg",
+            "coordinates": {
+              "lon": 2.29219,
+              "lat": 48.87474
+            },
+            "counter": "Y2H19070340",
+            "photos": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg/https://filer.eco-counter-tools.com/file/58/2bd84088e967a80c49dffbb62895a796ef71a45a1d8235ad3b8e51ca8d94f958/15718268955250.jpg/https://filer.eco-counter-tools.com/file/83/1e892beccf18a25cbb9ace3827486af0ae54c101addbed8959f717699e45fc83/Y2H18034806_20210811100124.jpg/https://filer.eco-counter-tools.com/file/8f/ab6275133072426487720794af19ebfb2ba25006fedf54165aa0d47099d9978f/Y2H18034806_20220802134231.jpg/https://filer.eco-counter-tools.com/file/9d/12bde557443c776977c872826cf4ee45338dc0cda053a54e3a749161b5ff039d/Y2H18034806_20240611105211.jpg/https://filer.eco-counter-tools.com/file/b0/833ce8b21144851fea9db16e422986dfef27c41a7395dd8c7fc4e798a41531b0/Y2H19070340_20250730105758.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100044495",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047533-101047533",
+            "nom_compteur": "89 boulevard de Magenta NO-SE",
+            "id": "100047533",
+            "name": "89 boulevard de Magenta",
+            "sum_counts": 498,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-11-28",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg",
+            "coordinates": {
+              "lon": 2.35535,
+              "lat": 48.87756
+            },
+            "counter": "Y2H18086309",
+            "photos": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg/https://filer.eco-counter-tools.com/file/19/5c8e475d2cdb5d3c67b8f12550f341656199c6c27ed1458c0bd8c7b0279f2919/Y2H18086309_20210811133208.jpg/https://filer.eco-counter-tools.com/file/48/4b322b77bb102481b9b6b9e0abfaa448eb9cd56d2705dd36305f48325d561548/15434006878980.jpg/https://filer.eco-counter-tools.com/file/62/9d4fd080712401a0face0523d12e95a9c73a9429635ccc6dbac4d2ee3e899862/Y2H18086309_20250729103623.jpg/https://filer.eco-counter-tools.com/file/af/9972044d188d2cba90f454786f4a0c78780ad6ad46120e922cc7a5a800fe29af/Y2H18086309_20220802135826.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047533",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100007049-102007049",
+            "nom_compteur": "28 boulevard Diderot E-O",
+            "id": "100007049",
+            "name": "28 boulevard Diderot",
+            "sum_counts": 3,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2013-01-18",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "coordinates": {
+              "lon": 2.37559,
+              "lat": 48.84613
+            },
+            "counter": "Y2H21015011",
+            "photos": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg/https://filer.eco-counter-tools.com/file/6b/84e46df62589a66a0827954c6c07947e87f1e1d5c80724efc19efaf54a67386b/Y2H21015011_20250729122942.jpg/https://filer.eco-counter-tools.com/file/81/7d5f7058df9d97404fb0067e49039a2a022ea3f5a732b5e54b7d2ed90afab981/Y2H21015011_20240618154402.jpg/https://filer.eco-counter-tools.com/file/9b/531a0daddb4be5433a86cb09dc36f92b25c7bd4ea5c93c7c3146181d9625539b/13585075886520.jpg/https://filer.eco-counter-tools.com/file/d0/5539296cbf2bbb9fb37428bdb5bd6fe499ea5843de9de9605700c783eaa879d0/Y2H21015011_20220407110305.jpg/https://filer.eco-counter-tools.com/file/f7/4f2f37a5b343c214e4cc32c80e8de78de6afb907af12505592b2bd2f190671f7/Y2H21015011_20220725182819.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100007049",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100007049-101007049",
+            "nom_compteur": "28 boulevard Diderot O-E",
+            "id": "100007049",
+            "name": "28 boulevard Diderot",
+            "sum_counts": 37,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2013-01-18",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "coordinates": {
+              "lon": 2.37559,
+              "lat": 48.84613
+            },
+            "counter": "Y2H21015011",
+            "photos": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg/https://filer.eco-counter-tools.com/file/6b/84e46df62589a66a0827954c6c07947e87f1e1d5c80724efc19efaf54a67386b/Y2H21015011_20250729122942.jpg/https://filer.eco-counter-tools.com/file/81/7d5f7058df9d97404fb0067e49039a2a022ea3f5a732b5e54b7d2ed90afab981/Y2H21015011_20240618154402.jpg/https://filer.eco-counter-tools.com/file/9b/531a0daddb4be5433a86cb09dc36f92b25c7bd4ea5c93c7c3146181d9625539b/13585075886520.jpg/https://filer.eco-counter-tools.com/file/d0/5539296cbf2bbb9fb37428bdb5bd6fe499ea5843de9de9605700c783eaa879d0/Y2H21015011_20220407110305.jpg/https://filer.eco-counter-tools.com/file/f7/4f2f37a5b343c214e4cc32c80e8de78de6afb907af12505592b2bd2f190671f7/Y2H21015011_20220725182819.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100007049",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056330-104056330",
+            "nom_compteur": "36 quai de Grenelle NE-SO",
+            "id": "100056330",
+            "name": "36 quai de Grenelle",
+            "sum_counts": 209,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-11-14",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg",
+            "coordinates": {
+              "lon": 2.28593,
+              "lat": 48.85174
+            },
+            "counter": "Y2H19070376",
+            "photos": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg/https://filer.eco-counter-tools.com/file/22/f2b04d7909bde6f71130f1a0e7ff7959732b28031e4330e59e95928764ffca22/Y2H19070376_20250730150007.jpg/https://filer.eco-counter-tools.com/file/4e/562b5762fd1dbed8166ee43a9a2801387dcbc84b082a3a770586d6620053894e/15737373429050.jpg/https://filer.eco-counter-tools.com/file/6f/2629d687ad9418045da34373ac809349a79354f50f5f90f0f58eca3948d9f36f/Y2H19070376_20240611162743.jpg/https://filer.eco-counter-tools.com/file/9f/b1b1e1192bfc079c65589f8ad74d2604f3a807149d98e18f5e32400ad914c79f/Y2H19070376_20220802145741.jpg/https://filer.eco-counter-tools.com/file/b4/57578de5621fc9c351ea9780dd1eefd64380f1a4430299b60ff805410994fcb4/Y2H19070376_20200818101459.jpg/https://filer.eco-counter-tools.com/file/c8/1932f6144154526287d914bcbb8271403118c5d1e46625c53d24fe97a5e751c8/15977385285420.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056330",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056334-103056334",
+            "nom_compteur": "38 rue Turbigo NE-SO",
+            "id": "100056334",
+            "name": "38 rue Turbigo",
+            "sum_counts": 16,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-12-10",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+            "coordinates": {
+              "lon": 2.35387,
+              "lat": 48.86502
+            },
+            "counter": "Y2H18086325",
+            "photos": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg/https://filer.eco-counter-tools.com/file/47/eb5266d3c3a40112152ca8740ee3390f7281c3aea3eb701388ad75c6b8859a47/Y2H19070380_20220802142556.jpg/https://filer.eco-counter-tools.com/file/62/0e0c75a4501eb0b6371e4433951aa7363fd5c611dd001568e240749cf7a29362/Y2H19070380_20210811110713.jpg/https://filer.eco-counter-tools.com/file/8c/b64697b4add975d0fd8c5cb1f26179a693ff34505d6e0b6be807746d472fa08c/Y2H19070380_20240612160642.jpg/https://filer.eco-counter-tools.com/file/a6/00134892759dacd8bbc6b388c2ee0e7548c75ba7e8ec76dc1f27f7e11cb7d7a6/Y2H18086325_20250729110226.jpg/https://filer.eco-counter-tools.com/file/ca/9c4a084b6343b05b184db150520e8c956fb56f97cad66decbd04754d98ab3fca/Y2H18086325_20250107094243.jpg/https://filer.eco-counter-tools.com/file/d1/e2ee9e25e5d8c6f9d7f8f77ab73c6db973a2696abe18e3dcc9d8d3386478e1d1/15765765524970.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056334",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056047-101056047",
+            "nom_compteur": "Pont de la Concorde S-N",
+            "id": "100056047",
+            "name": "Pont de la Concorde",
+            "sum_counts": 241,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-11-08",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+            "coordinates": {
+              "lon": 2.3202,
+              "lat": 48.8638
+            },
+            "counter": "Y2H24062200",
+            "photos": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg/https://filer.eco-counter-tools.com/file/26/ababdc9bb3857b985a60ae3c221cef8c20da44d1dee21217bdd0e26b0b1e5226/Y2H19070356_20240611122908.jpg/https://filer.eco-counter-tools.com/file/8f/13d561336b1c303df625b61c17c0d3d95c0ceef13545325e254624aac65acf8f/Y2H24062200_20240710144510.jpg/https://filer.eco-counter-tools.com/file/a1/4331f8e00541bdefdab20153f119323407863599e51a206768356ee68fdc17a1/Y2H24062200_20251209143305.jpg/https://filer.eco-counter-tools.com/file/a4/888294b28a23039cad9a6ad58914cc34dfbaaf70e26798ccd774c282aa10a0a4/Y2H24062200_20251209140814.jpg/https://filer.eco-counter-tools.com/file/a7/e0d933fb5667fa50a352ebc8eed42600197276fa2dc6c07858dec9edd78e51a7/Y2H24062200_20251209141408.jpg/https://filer.eco-counter-tools.com/file/af/8afea9a00ef79995adb33c88a65d790b7fa4761066528cf18476c7f95a147aaf/Y2H24062200_20251209141420.jpg/https://filer.eco-counter-tools.com/file/bc/dbd3853731127099186eeed06ea18eb118c5833f0b5c83c7730b4f6d4c54a0bc/15765769360530.jpg/https://filer.eco-counter-tools.com/file/cc/30eecc62b9a3b7944ac2cf0cae13cd28171a629a35b074bea4f4594faafd9bcc/Y2H19070356_20210810190805.jpg/https://filer.eco-counter-tools.com/file/ed/99986b1ba7303390b60beb5b64132efcb20c24298fdf3b3ca797750d6e1367ed/Y2H24062200_20251209140743.jpg/https://filer.eco-counter-tools.com/file/ef/29e62047a5565a578e772cd824eae927f6aa55f0838b3388030e080e914078ef/Y2H24062200_20251209140803.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056047",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100050876-104050876",
+            "nom_compteur": "Totem 64 Rue de Rivoli O-E",
+            "id": "100050876",
+            "name": "Totem 64 Rue de Rivoli",
+            "sum_counts": 411,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-09-04",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "coordinates": {
+              "lon": 2.35211,
+              "lat": 48.85735
+            },
+            "counter": "YTH19037970",
+            "photos": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100050876",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056038-101056038",
+            "nom_compteur": "44 avenue des Champs Elysées SE-NO",
+            "id": "100056038",
+            "name": "44 avenue des Champs Elysées",
+            "sum_counts": 147,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-10-30",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+            "coordinates": {
+              "lon": 2.30743,
+              "lat": 48.86999
+            },
+            "counter": "Y2H21111077",
+            "photos": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg/https://filer.eco-counter-tools.com/file/4e/6c224ead19f662ff59f031db31ad6079eea7d686677e832d010bf4f6f6ef944e/Y2H21111077_20240611111029.jpg/https://filer.eco-counter-tools.com/file/5f/d4d5c5bd654cf989713a8f698321451b3dece54ebf77786882cf5b2ea879345f/Y2H19070341_20220802124458.jpg/https://filer.eco-counter-tools.com/file/a2/1b49ad9585537d0bfea08557e7701197df5aee498f0df73cf65ba3bba02946a2/Y2H19070341_20210811093328.jpg/https://filer.eco-counter-tools.com/file/c1/c8f68c0bbec73d4fd7b0eaa8d23145541a6eb88080702028ee0c4133f6d4d8c1/15724491524180.jpg/https://filer.eco-counter-tools.com/file/c2/446934aa78ee806e7627399b5b94b7ed7fb5071447db686d1e5e17568ab2cac2/Y2H21111077_20240405093953.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056038",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "300030173-353355292",
+            "nom_compteur": "77 boulevard Masséna NE-SO",
+            "id": "300030173",
+            "name": "77 boulevard Masséna",
+            "sum_counts": 38,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2023-01-26",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg",
+            "coordinates": {
+              "lon": 2.368576,
+              "lat": 48.821204
+            },
+            "counter": "Y2H22115077",
+            "photos": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg/https://filer.eco-counter-tools.com/file/a5/af693484a312f98a5e6c7d6ce132d3052af89d78c9ed34a724ae42f1663531a5/Y2H22115077_20240618133103.jpg/https://filer.eco-counter-tools.com/file/db/09513ec95d163eb6ce0a1bcef5951e539416362e0ca5ed7c484df8dec42ef3db/Y2H22115077_20230126155031.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/300030173",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          }
+        ]
+      },
+      {
+        "timestamp": "2026-06-22T12:39:39.505000",
+        "nb_compteurs": 50,
+        "total_passages": 0,
+        "data": [
+          {
+            "id_compteur": "100056041-101056041",
+            "nom_compteur": "147 avenue d'Italie S-N",
+            "id": "100056041",
+            "name": "147 avenue d'Italie",
+            "sum_counts": 35,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-12-10",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg",
+            "coordinates": {
+              "lon": 2.35919,
+              "lat": 48.82026
+            },
+            "counter": "Y2H24062251",
+            "photos": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg/https://filer.eco-counter-tools.com/file/37/66c6405ca6ad2f9db06a242352c5336f351b4ec30262e65e4be930a232d2d737/Y2H22125281_20250730150253.jpg/https://filer.eco-counter-tools.com/file/38/48a5f567db211473e616043eb57b6a577731c9e7ea62226d8b5f42cc80c98138/15759129300860.jpg/https://filer.eco-counter-tools.com/file/4c/1a78aaaf5db20f237b832f18d4dddde185077c59646ba76109ec177ccbb7894c/Y2H19070344_20220803092846.jpg/https://filer.eco-counter-tools.com/file/4e/b5929c993d3471ddec400d24f5bc259ae7cd94f1edc055e41398e6b2c0ac8b4e/Y2H19070344_20200818150200.jpg/https://filer.eco-counter-tools.com/file/e2/41056c4eab7ff46b0591085925007c102c5d030ccc8932a903e774e818fdaee2/15977557727270.jpg/https://filer.eco-counter-tools.com/file/e7/66ef735b06aa3767001a7bcda9c75d97abd58721f366416ff557032dbfb37ee7/Y2H19070344_20210810123859.jpg/https://filer.eco-counter-tools.com/file/f9/8cfcff3c6e3a43aa4a8d2a38bfa5556cf04fd60717392e2e8a17f8d5c34848f9/Y2H22125281_20240618131333.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056041",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100036718-103036718",
+            "nom_compteur": "39 quai François Mauriac SE-NO",
+            "id": "100036718",
+            "name": "39 quai François Mauriac",
+            "sum_counts": 62,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-07-12",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+            "coordinates": {
+              "lon": 2.377,
+              "lat": 48.83436
+            },
+            "counter": "Y2H21015068",
+            "photos": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg/https://filer.eco-counter-tools.com/file/1b/6c9013a542a3c751f94c8b9a00db0ad3485054953a37aeddf45830482d5d311b/Y2H17021629_20200818165643.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png/https://filer.eco-counter-tools.com/file/89/a417e0e7a5a6a0be002e6b9f7f43b4db5eb3f1c15aa348294378f2b8d6cfa089/Y2H21015068_20220407102319.jpg/https://filer.eco-counter-tools.com/file/92/8dd0832756788947862701438d96ba9ac1f7524794109c2db14efa91a3e5bc92/Y2H21015068_20220803125012.jpg/https://filer.eco-counter-tools.com/file/9e/f997ab4793874f0832ae24c89ef2cafc87a78e90336527f7e9be38d0f4fec39e/15977626284870.jpg/https://filer.eco-counter-tools.com/file/a3/eb19fabc6ac19ee165b9a3d367b75c23705c0bc2ef3c0b7b4950e921840633a3/15765770808100.jpg/https://filer.eco-counter-tools.com/file/c3/3cc5746fc201948a4f89469db101780cf29dcc2c29e350f53351732871bfa5c3/Y2H17021629_20210810135800.jpg/https://filer.eco-counter-tools.com/file/d4/e8110bccec80e42806d28ea2f102e3cf93875f3e8add5dfa4ea0672af45ee3d4/14997911465211.jpg/https://filer.eco-counter-tools.com/file/d9/e055c4b719c875d6a250c8caf4ed5962c847d9d3b04251f053e86b5d088c2ad9/15767555313320.jpg/https://filer.eco-counter-tools.com/file/f2/1f6decacff618a4b568543f90909d8f562fd951737e6b8f53dbe567d64f87cf2/Y2H21015068_20250729150243.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100036718",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100036719-103036719",
+            "nom_compteur": "18 quai de l'Hôtel de Ville SE-NO",
+            "id": "100036719",
+            "name": "18 quai de l'Hôtel de Ville",
+            "sum_counts": 192,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-07-12",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png",
+            "coordinates": {
+              "lon": 2.35702,
+              "lat": 48.85372
+            },
+            "counter": "Y2H21015012",
+            "photos": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png/https://filer.eco-counter-tools.com/file/54/8946a312899f621b1e2c7007e9f490f297cd915b9dfee93b4c96c557d5179c54/Y2H21015012_20240613112601.jpg/https://filer.eco-counter-tools.com/file/6c/7219aac71d6d7c03b90a5eb4b59de532d908084b261509e268a150be6948b76c/Y2H21015012_20250729103525.jpg/https://filer.eco-counter-tools.com/file/9d/176068e8b3503f6b68c846ec1741b3a744b56aede12fa81bfc29fa2c82f96d9d/X2H19027732_20190507110918.jpg/https://filer.eco-counter-tools.com/file/bd/7b7d73a0893fc9813d303fa82a8aec6a2888b910e721b344fe519737bf51e1bd/14997911939232.jpg/https://filer.eco-counter-tools.com/file/cc/7ee37fd33279ac655cb94dac2f5cabe37169064be3d172305eee095aa8eb48cc/Y2H21015012_20220407113640.jpg/https://filer.eco-counter-tools.com/file/cd/d97fc859bef5a19d217f46db0a4ee144cfc19d12fe12a8f8f8d6d837dd05f3cd/Y2H19027732_20210810183209.jpg/https://filer.eco-counter-tools.com/file/d0/1aba92aeca91f0ea6146e062f7994959da2ade84f8c5cded3b9f1e8424ea98d0/15718218590430.jpg/https://filer.eco-counter-tools.com/file/d7/030e39ece3b9677fd4ab1c1de4370b0613ad1c4cafd810f4b06b6489f8304cd7/Y2H21015012_20220803103347.jpg/https://filer.eco-counter-tools.com/file/db/b61f852e0d3afa4b9be0cdcfe0046cb3bb330efa17c3941fae25199cf2134fdb/14997911938171.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100036719",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100049407-353255860",
+            "nom_compteur": "152 boulevard du Montparnasse E-O",
+            "id": "100049407",
+            "name": "152 boulevard du Montparnasse",
+            "sum_counts": 67,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-07",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+            "coordinates": {
+              "lon": 2.33438,
+              "lat": 48.84017
+            },
+            "counter": "Y2H25113573",
+            "photos": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg/https://filer.eco-counter-tools.com/file/25/0717fd11c1d6320ea94b1da3a5fc3689535ea807158f895f6d9854b6c9cfb125/15977486431090.jpg/https://filer.eco-counter-tools.com/file/40/b0a266d7da6aa81d9d62d801b79865da76032fa8195fd8a05863ecded4498e40/Y2H21015072_20220725180228.jpg/https://filer.eco-counter-tools.com/file/75/8e415a6dcc6c37ea40ceb0e33742220927d4408dca9035f4c82e0c676d877575/Y2H21015072_20240611130940.jpg/https://filer.eco-counter-tools.com/file/ab/745deef771e04b8924c6604c6e8dc37c04857029144dfd534917b9d09020b4ab/Y2H25113573_20260209092518.jpg/https://filer.eco-counter-tools.com/file/c1/e41b6763a01d4eb20c24e2980edc6b71e2bf27b2e43988cac0f003cdd26850c1/Y2H21015072_20250730114009.jpg/https://filer.eco-counter-tools.com/file/e6/f878f67440525b0b655421f986c63209cdfa37dad30b7151bfdd2b993361a7e6/Y2H21015072_20220704182332.jpg/https://filer.eco-counter-tools.com/file/eb/ccbd18787048eef5d2dd8a07e258adf82a5790f11f7715f61440204171aef7eb/15444529154820.jpg/https://filer.eco-counter-tools.com/file/ee/27421ed2c4c5a455ef0dafb4a4fbcbaa97e1d2e68f9268d101d227972eee7dee/Y2H21015072_20220725175806.jpg/https://filer.eco-counter-tools.com/file/f2/204b3fd2189bb9354851dd0ec2258c27b34a987180d54ea2cc65fa2b8c7914f2/Y2H21015072_20220725180122.jpg/https://filer.eco-counter-tools.com/file/fd/b8abd0eab5ee234fc661378e4d8959728488c27da4e4f39036fda84a0cbccffd/Y2H19070373_20210224152726.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100049407",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100042374-109042374",
+            "nom_compteur": "Voie Georges Pompidou SO-NE",
+            "id": "100042374",
+            "name": "Voie Georges Pompidou",
+            "sum_counts": 59,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-12-15",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg",
+            "coordinates": {
+              "lon": 2.27596,
+              "lat": 48.84837
+            },
+            "counter": "Y2H21025335",
+            "photos": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg/https://filer.eco-counter-tools.com/file/68/1dce0451d633e7c432c030664bb1dc9db8403605258bb6cfbb9e76fb9e5d2668/15172173001793.jpg/https://filer.eco-counter-tools.com/file/81/3fa335611bc26cf7cf2ec3822d0618d1ec999581b67ea0e1befd6315ca0a1481/Y2H21025335_20210330155535.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png?filename=15374574611960.png/https://filer.eco-counter-tools.com/file/87/8c6aaf39f1e0063e0fc5aa5c3aa7c0df859d6fed1a89cf863360a16969242e87/Y2H21025335_20210330155549.jpg/https://filer.eco-counter-tools.com/file/ba/5fe72fb52db494f0260e7c0ba04938e1fe49af2d60fb9d2f3b3899a17061ddba/Y2H21025335_20240611161331.jpg/https://filer.eco-counter-tools.com/file/d3/e13e40d3b13aba5096e32a0db43cf614d3d6a285fbeb0f14f751dcc678caecd3/15172173000772.jpg/https://filer.eco-counter-tools.com/file/d8/ca09768c4eec1987378b3757922e8ef18d45c3579185f1c737b0d5c1924fdbd8/Y2H21025335_20250730152026.jpg/https://filer.eco-counter-tools.com/file/dc/ca258975923935a97c60c5ff55bcade8612078a737101f80ba28995f29f01cdc/Y2H21025335_20220802152245.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100042374",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047541-353326452",
+            "nom_compteur": "Pont National SO-NE",
+            "id": "100047541",
+            "name": "Pont National",
+            "sum_counts": 25,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg",
+            "coordinates": {
+              "lon": 2.38448,
+              "lat": 48.82639
+            },
+            "counter": "Y2H22053370",
+            "photos": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg/https://filer.eco-counter-tools.com/file/2a/799b98880f593cad49159a30639b855596a7b8448fcb43d18a3eb2f84098772a/Y2H18086317_20200818152643.jpg/https://filer.eco-counter-tools.com/file/31/b0cfcd9cae5c6be7eb8ab8f1f4a6cbd174ad43ec43da2b36df47c53997e99f31/15439382216460.jpg/https://filer.eco-counter-tools.com/file/46/19833d5d84681f9b0878bafba6e9fd1007874bf69af1261438f71f5fd0f24b46/Y2H18086317_20210810130151.jpg/https://filer.eco-counter-tools.com/file/58/4fc08ec38c1721686c18bd3da1ef49ad32c66f2bd399e0fe81ee6420b0257258/Y2H22053370_20240618143005.jpg/https://filer.eco-counter-tools.com/file/72/1094d4ef6ad32c27d538f9f31b832bd4d4b4efe3f151bbcd145eb850d1c26c72/Y2H18086317_20220407100013.jpg/https://filer.eco-counter-tools.com/file/83/4ac9d84f02dd579da38a278fcb33265550c74b79ac1ff0ff8ad423e0d5480b83/Y2H22053370_20220803150940.jpg/https://filer.eco-counter-tools.com/file/a7/a5586a2924aaa1c432a43f2354c29cd87467c13ddf54a4f2812f61b15f2034a7/Y2H22053370_20220803151051.jpg/https://filer.eco-counter-tools.com/file/eb/5b8bc60150a570dea708c0162dc9b74b7ff74411deb3285a83723fd931bfeaeb/15977572244860.jpg/https://filer.eco-counter-tools.com/file/f8/5e9dd4b050cd9da4231f345a6b474099aba60a16c00bfa912ba7cd43f1fce3f8/Y2H22053370_20220803151326.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047541",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047544-101047544",
+            "nom_compteur": "77 boulevard Richard Lenoir N-S",
+            "id": "100047544",
+            "name": "77 boulevard Richard Lenoir",
+            "sum_counts": 140,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg",
+            "coordinates": {
+              "lon": 2.37212,
+              "lat": 48.86089
+            },
+            "counter": "Y2I19038116",
+            "photos": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg/https://filer.eco-counter-tools.com/file/a9/6bc12dbb7e8977f4dbfbc92958ccaa51a4b8619ae22c9a72005457f0f4255ca9/Y2H18086320_20200819124454.jpg/https://filer.eco-counter-tools.com/file/b7/761499aaa75296bda9206017280303c9b22fb0fedf1a8fc4b956174e754ca5b7/Y2I19038116_20240613122018.jpg/https://filer.eco-counter-tools.com/file/c0/8be5f49579ca4550980fc42b38d2cdc034f8db87fcf87c29aad3b64b613b33c0/15978339122780.jpg/https://filer.eco-counter-tools.com/file/d4/3ee69b4213d25cc8d9bb2f70b1bd29f39a840b0d3393522c85f0bcb4ed429cd4/Y2H18086320_20210811112652.jpg/https://filer.eco-counter-tools.com/file/e2/67a5191c2dfb233cf2d098c3a5b5c3e6b3725df56a08a193c4c52a0822d783e2/15765768365460.jpg/https://filer.eco-counter-tools.com/file/e2/bf93638c61837dbc5a8b8c19fe8e2b660613c147f9214d92ca2cc2d69c4363e2/Y2H18086320_20220802145309.jpg/https://filer.eco-counter-tools.com/file/e7/0e78ab1ef0e1558ed28e3c2caf7d5ef5c4d04f51e365be18377390b69c82e2e7/Y2I19038116_20250729115813.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047544",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047536-101047536",
+            "nom_compteur": "102 boulevard de Magenta SE-NO",
+            "id": "100047536",
+            "name": "102 boulevard de Magenta",
+            "sum_counts": 403,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-11-29",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg",
+            "coordinates": {
+              "lon": 2.35475,
+              "lat": 48.87769
+            },
+            "counter": "Y2H18086312",
+            "photos": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg/https://filer.eco-counter-tools.com/file/21/5b84f531a108dc2abe1dc1d2e1231da228d1cfecb0b84a2441bce8da54eeab21/Y2H18086312_20220802134752.jpg/https://filer.eco-counter-tools.com/file/37/67b4163798426a06286e8fce9a2161f435c131584c8687013dadd7b0c3805337/Y2H18086312_20240612154529.jpg/https://filer.eco-counter-tools.com/file/b6/72970d0bc0a40addd263df5139e511e9a1f6f6ceaaa854fa148b101f375dfeb6/Y2H18086312_20250729102029.jpg/https://filer.eco-counter-tools.com/file/e6/f1722de135aef7122b1bc5f38e53e8f58cd948e19f34eae9de3d8f79f12ba5e6/Y2H18086312_20210811132353.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047536",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047539-101047539",
+            "nom_compteur": "21 boulevard Auguste Blanqui SO-NE",
+            "id": "100047539",
+            "name": "21 boulevard Auguste Blanqui",
+            "sum_counts": 34,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg",
+            "coordinates": {
+              "lon": 2.35373,
+              "lat": 48.83074
+            },
+            "counter": "Y2H22114921",
+            "photos": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg/https://filer.eco-counter-tools.com/file/4e/cb0ec53163a3972a27fb4a06fbb7cf64b74ff78e82470add3144690bcb58144e/Y2H22114921_20240618122257.jpg/https://filer.eco-counter-tools.com/file/5c/1526f97a18f6845eefac473d5b76aed4055e87d15541359eacd31928ee2be05c/Y2H18086315_20220803100106.jpg/https://filer.eco-counter-tools.com/file/86/22afe09d2544d85d66deb0edf62cca114ca8287cf225b246afa67d4efe61d186/15765761696560.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047539",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100044494-353504987",
+            "nom_compteur": "10 avenue de la Grande Armée SE-NO",
+            "id": "100044494",
+            "name": "10 avenue de la Grande Armée",
+            "sum_counts": 63,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2025-01-07",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg",
+            "coordinates": {
+              "lon": 2.2924,
+              "lat": 48.8748
+            },
+            "counter": "X2H20012081",
+            "photos": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg/https://filer.eco-counter-tools.com/file/6f/990cf85630e9a7369683ceca24e8b72b2796b3dbaec82406bfbb8ee9a7dc906f/15765753078770.jpg/https://filer.eco-counter-tools.com/file/93/0f9896bc2167e519ab0b70529ceaeda4f2654ceb86f3b428cae3b1d8ce8ec593/Y2H18034808_20210811095605.jpg/https://filer.eco-counter-tools.com/file/d2/5286f624fca83b5191f9222ff37b5d3088434b1de41aeb8838db9447c7473bd2/Y2H18034808_20240611104602.jpg/https://filer.eco-counter-tools.com/file/e2/7f164e641e5ad325dac8336abb960f02a6c4e826908333cbb1f00f0a8bf42be2/Y2H18034808_20220802130746.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100044494",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100044495-101044495",
+            "nom_compteur": "7 avenue de la Grande Armée NO-SE",
+            "id": "100044495",
+            "name": "7 avenue de la Grande Armée",
+            "sum_counts": 60,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-07-27",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg",
+            "coordinates": {
+              "lon": 2.29219,
+              "lat": 48.87474
+            },
+            "counter": "Y2H19070340",
+            "photos": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg/https://filer.eco-counter-tools.com/file/58/2bd84088e967a80c49dffbb62895a796ef71a45a1d8235ad3b8e51ca8d94f958/15718268955250.jpg/https://filer.eco-counter-tools.com/file/83/1e892beccf18a25cbb9ace3827486af0ae54c101addbed8959f717699e45fc83/Y2H18034806_20210811100124.jpg/https://filer.eco-counter-tools.com/file/8f/ab6275133072426487720794af19ebfb2ba25006fedf54165aa0d47099d9978f/Y2H18034806_20220802134231.jpg/https://filer.eco-counter-tools.com/file/9d/12bde557443c776977c872826cf4ee45338dc0cda053a54e3a749161b5ff039d/Y2H18034806_20240611105211.jpg/https://filer.eco-counter-tools.com/file/b0/833ce8b21144851fea9db16e422986dfef27c41a7395dd8c7fc4e798a41531b0/Y2H19070340_20250730105758.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100044495",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047533-101047533",
+            "nom_compteur": "89 boulevard de Magenta NO-SE",
+            "id": "100047533",
+            "name": "89 boulevard de Magenta",
+            "sum_counts": 498,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-11-28",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg",
+            "coordinates": {
+              "lon": 2.35535,
+              "lat": 48.87756
+            },
+            "counter": "Y2H18086309",
+            "photos": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg/https://filer.eco-counter-tools.com/file/19/5c8e475d2cdb5d3c67b8f12550f341656199c6c27ed1458c0bd8c7b0279f2919/Y2H18086309_20210811133208.jpg/https://filer.eco-counter-tools.com/file/48/4b322b77bb102481b9b6b9e0abfaa448eb9cd56d2705dd36305f48325d561548/15434006878980.jpg/https://filer.eco-counter-tools.com/file/62/9d4fd080712401a0face0523d12e95a9c73a9429635ccc6dbac4d2ee3e899862/Y2H18086309_20250729103623.jpg/https://filer.eco-counter-tools.com/file/af/9972044d188d2cba90f454786f4a0c78780ad6ad46120e922cc7a5a800fe29af/Y2H18086309_20220802135826.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047533",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100007049-102007049",
+            "nom_compteur": "28 boulevard Diderot E-O",
+            "id": "100007049",
+            "name": "28 boulevard Diderot",
+            "sum_counts": 3,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2013-01-18",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "coordinates": {
+              "lon": 2.37559,
+              "lat": 48.84613
+            },
+            "counter": "Y2H21015011",
+            "photos": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg/https://filer.eco-counter-tools.com/file/6b/84e46df62589a66a0827954c6c07947e87f1e1d5c80724efc19efaf54a67386b/Y2H21015011_20250729122942.jpg/https://filer.eco-counter-tools.com/file/81/7d5f7058df9d97404fb0067e49039a2a022ea3f5a732b5e54b7d2ed90afab981/Y2H21015011_20240618154402.jpg/https://filer.eco-counter-tools.com/file/9b/531a0daddb4be5433a86cb09dc36f92b25c7bd4ea5c93c7c3146181d9625539b/13585075886520.jpg/https://filer.eco-counter-tools.com/file/d0/5539296cbf2bbb9fb37428bdb5bd6fe499ea5843de9de9605700c783eaa879d0/Y2H21015011_20220407110305.jpg/https://filer.eco-counter-tools.com/file/f7/4f2f37a5b343c214e4cc32c80e8de78de6afb907af12505592b2bd2f190671f7/Y2H21015011_20220725182819.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100007049",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100007049-101007049",
+            "nom_compteur": "28 boulevard Diderot O-E",
+            "id": "100007049",
+            "name": "28 boulevard Diderot",
+            "sum_counts": 37,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2013-01-18",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "coordinates": {
+              "lon": 2.37559,
+              "lat": 48.84613
+            },
+            "counter": "Y2H21015011",
+            "photos": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg/https://filer.eco-counter-tools.com/file/6b/84e46df62589a66a0827954c6c07947e87f1e1d5c80724efc19efaf54a67386b/Y2H21015011_20250729122942.jpg/https://filer.eco-counter-tools.com/file/81/7d5f7058df9d97404fb0067e49039a2a022ea3f5a732b5e54b7d2ed90afab981/Y2H21015011_20240618154402.jpg/https://filer.eco-counter-tools.com/file/9b/531a0daddb4be5433a86cb09dc36f92b25c7bd4ea5c93c7c3146181d9625539b/13585075886520.jpg/https://filer.eco-counter-tools.com/file/d0/5539296cbf2bbb9fb37428bdb5bd6fe499ea5843de9de9605700c783eaa879d0/Y2H21015011_20220407110305.jpg/https://filer.eco-counter-tools.com/file/f7/4f2f37a5b343c214e4cc32c80e8de78de6afb907af12505592b2bd2f190671f7/Y2H21015011_20220725182819.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100007049",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056330-104056330",
+            "nom_compteur": "36 quai de Grenelle NE-SO",
+            "id": "100056330",
+            "name": "36 quai de Grenelle",
+            "sum_counts": 209,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-11-14",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg",
+            "coordinates": {
+              "lon": 2.28593,
+              "lat": 48.85174
+            },
+            "counter": "Y2H19070376",
+            "photos": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg/https://filer.eco-counter-tools.com/file/22/f2b04d7909bde6f71130f1a0e7ff7959732b28031e4330e59e95928764ffca22/Y2H19070376_20250730150007.jpg/https://filer.eco-counter-tools.com/file/4e/562b5762fd1dbed8166ee43a9a2801387dcbc84b082a3a770586d6620053894e/15737373429050.jpg/https://filer.eco-counter-tools.com/file/6f/2629d687ad9418045da34373ac809349a79354f50f5f90f0f58eca3948d9f36f/Y2H19070376_20240611162743.jpg/https://filer.eco-counter-tools.com/file/9f/b1b1e1192bfc079c65589f8ad74d2604f3a807149d98e18f5e32400ad914c79f/Y2H19070376_20220802145741.jpg/https://filer.eco-counter-tools.com/file/b4/57578de5621fc9c351ea9780dd1eefd64380f1a4430299b60ff805410994fcb4/Y2H19070376_20200818101459.jpg/https://filer.eco-counter-tools.com/file/c8/1932f6144154526287d914bcbb8271403118c5d1e46625c53d24fe97a5e751c8/15977385285420.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056330",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056334-103056334",
+            "nom_compteur": "38 rue Turbigo NE-SO",
+            "id": "100056334",
+            "name": "38 rue Turbigo",
+            "sum_counts": 16,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-12-10",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+            "coordinates": {
+              "lon": 2.35387,
+              "lat": 48.86502
+            },
+            "counter": "Y2H18086325",
+            "photos": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg/https://filer.eco-counter-tools.com/file/47/eb5266d3c3a40112152ca8740ee3390f7281c3aea3eb701388ad75c6b8859a47/Y2H19070380_20220802142556.jpg/https://filer.eco-counter-tools.com/file/62/0e0c75a4501eb0b6371e4433951aa7363fd5c611dd001568e240749cf7a29362/Y2H19070380_20210811110713.jpg/https://filer.eco-counter-tools.com/file/8c/b64697b4add975d0fd8c5cb1f26179a693ff34505d6e0b6be807746d472fa08c/Y2H19070380_20240612160642.jpg/https://filer.eco-counter-tools.com/file/a6/00134892759dacd8bbc6b388c2ee0e7548c75ba7e8ec76dc1f27f7e11cb7d7a6/Y2H18086325_20250729110226.jpg/https://filer.eco-counter-tools.com/file/ca/9c4a084b6343b05b184db150520e8c956fb56f97cad66decbd04754d98ab3fca/Y2H18086325_20250107094243.jpg/https://filer.eco-counter-tools.com/file/d1/e2ee9e25e5d8c6f9d7f8f77ab73c6db973a2696abe18e3dcc9d8d3386478e1d1/15765765524970.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056334",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056047-101056047",
+            "nom_compteur": "Pont de la Concorde S-N",
+            "id": "100056047",
+            "name": "Pont de la Concorde",
+            "sum_counts": 241,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-11-08",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+            "coordinates": {
+              "lon": 2.3202,
+              "lat": 48.8638
+            },
+            "counter": "Y2H24062200",
+            "photos": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg/https://filer.eco-counter-tools.com/file/26/ababdc9bb3857b985a60ae3c221cef8c20da44d1dee21217bdd0e26b0b1e5226/Y2H19070356_20240611122908.jpg/https://filer.eco-counter-tools.com/file/8f/13d561336b1c303df625b61c17c0d3d95c0ceef13545325e254624aac65acf8f/Y2H24062200_20240710144510.jpg/https://filer.eco-counter-tools.com/file/a1/4331f8e00541bdefdab20153f119323407863599e51a206768356ee68fdc17a1/Y2H24062200_20251209143305.jpg/https://filer.eco-counter-tools.com/file/a4/888294b28a23039cad9a6ad58914cc34dfbaaf70e26798ccd774c282aa10a0a4/Y2H24062200_20251209140814.jpg/https://filer.eco-counter-tools.com/file/a7/e0d933fb5667fa50a352ebc8eed42600197276fa2dc6c07858dec9edd78e51a7/Y2H24062200_20251209141408.jpg/https://filer.eco-counter-tools.com/file/af/8afea9a00ef79995adb33c88a65d790b7fa4761066528cf18476c7f95a147aaf/Y2H24062200_20251209141420.jpg/https://filer.eco-counter-tools.com/file/bc/dbd3853731127099186eeed06ea18eb118c5833f0b5c83c7730b4f6d4c54a0bc/15765769360530.jpg/https://filer.eco-counter-tools.com/file/cc/30eecc62b9a3b7944ac2cf0cae13cd28171a629a35b074bea4f4594faafd9bcc/Y2H19070356_20210810190805.jpg/https://filer.eco-counter-tools.com/file/ed/99986b1ba7303390b60beb5b64132efcb20c24298fdf3b3ca797750d6e1367ed/Y2H24062200_20251209140743.jpg/https://filer.eco-counter-tools.com/file/ef/29e62047a5565a578e772cd824eae927f6aa55f0838b3388030e080e914078ef/Y2H24062200_20251209140803.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056047",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100050876-104050876",
+            "nom_compteur": "Totem 64 Rue de Rivoli O-E",
+            "id": "100050876",
+            "name": "Totem 64 Rue de Rivoli",
+            "sum_counts": 411,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-09-04",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "coordinates": {
+              "lon": 2.35211,
+              "lat": 48.85735
+            },
+            "counter": "YTH19037970",
+            "photos": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100050876",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056038-101056038",
+            "nom_compteur": "44 avenue des Champs Elysées SE-NO",
+            "id": "100056038",
+            "name": "44 avenue des Champs Elysées",
+            "sum_counts": 147,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-10-30",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+            "coordinates": {
+              "lon": 2.30743,
+              "lat": 48.86999
+            },
+            "counter": "Y2H21111077",
+            "photos": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg/https://filer.eco-counter-tools.com/file/4e/6c224ead19f662ff59f031db31ad6079eea7d686677e832d010bf4f6f6ef944e/Y2H21111077_20240611111029.jpg/https://filer.eco-counter-tools.com/file/5f/d4d5c5bd654cf989713a8f698321451b3dece54ebf77786882cf5b2ea879345f/Y2H19070341_20220802124458.jpg/https://filer.eco-counter-tools.com/file/a2/1b49ad9585537d0bfea08557e7701197df5aee498f0df73cf65ba3bba02946a2/Y2H19070341_20210811093328.jpg/https://filer.eco-counter-tools.com/file/c1/c8f68c0bbec73d4fd7b0eaa8d23145541a6eb88080702028ee0c4133f6d4d8c1/15724491524180.jpg/https://filer.eco-counter-tools.com/file/c2/446934aa78ee806e7627399b5b94b7ed7fb5071447db686d1e5e17568ab2cac2/Y2H21111077_20240405093953.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056038",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "300030173-353355292",
+            "nom_compteur": "77 boulevard Masséna NE-SO",
+            "id": "300030173",
+            "name": "77 boulevard Masséna",
+            "sum_counts": 38,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2023-01-26",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg",
+            "coordinates": {
+              "lon": 2.368576,
+              "lat": 48.821204
+            },
+            "counter": "Y2H22115077",
+            "photos": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg/https://filer.eco-counter-tools.com/file/a5/af693484a312f98a5e6c7d6ce132d3052af89d78c9ed34a724ae42f1663531a5/Y2H22115077_20240618133103.jpg/https://filer.eco-counter-tools.com/file/db/09513ec95d163eb6ce0a1bcef5951e539416362e0ca5ed7c484df8dec42ef3db/Y2H22115077_20230126155031.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/300030173",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          }
+        ]
+      },
+      {
+        "timestamp": "2026-06-22T12:38:58.380000",
+        "nb_compteurs": 50,
+        "total_passages": 0,
+        "data": [
+          {
+            "id_compteur": "100056041-101056041",
+            "nom_compteur": "147 avenue d'Italie S-N",
+            "id": "100056041",
+            "name": "147 avenue d'Italie",
+            "sum_counts": 35,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-12-10",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg",
+            "coordinates": {
+              "lon": 2.35919,
+              "lat": 48.82026
+            },
+            "counter": "Y2H24062251",
+            "photos": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg/https://filer.eco-counter-tools.com/file/37/66c6405ca6ad2f9db06a242352c5336f351b4ec30262e65e4be930a232d2d737/Y2H22125281_20250730150253.jpg/https://filer.eco-counter-tools.com/file/38/48a5f567db211473e616043eb57b6a577731c9e7ea62226d8b5f42cc80c98138/15759129300860.jpg/https://filer.eco-counter-tools.com/file/4c/1a78aaaf5db20f237b832f18d4dddde185077c59646ba76109ec177ccbb7894c/Y2H19070344_20220803092846.jpg/https://filer.eco-counter-tools.com/file/4e/b5929c993d3471ddec400d24f5bc259ae7cd94f1edc055e41398e6b2c0ac8b4e/Y2H19070344_20200818150200.jpg/https://filer.eco-counter-tools.com/file/e2/41056c4eab7ff46b0591085925007c102c5d030ccc8932a903e774e818fdaee2/15977557727270.jpg/https://filer.eco-counter-tools.com/file/e7/66ef735b06aa3767001a7bcda9c75d97abd58721f366416ff557032dbfb37ee7/Y2H19070344_20210810123859.jpg/https://filer.eco-counter-tools.com/file/f9/8cfcff3c6e3a43aa4a8d2a38bfa5556cf04fd60717392e2e8a17f8d5c34848f9/Y2H22125281_20240618131333.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/f25e6e2b6d953ba1e19b7a53228e825fee2017d11df0bd3d58307b58ed0ce131/Y2H24062251_20250814092400.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056041",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100036718-103036718",
+            "nom_compteur": "39 quai François Mauriac SE-NO",
+            "id": "100036718",
+            "name": "39 quai François Mauriac",
+            "sum_counts": 62,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-07-12",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+            "coordinates": {
+              "lon": 2.377,
+              "lat": 48.83436
+            },
+            "counter": "Y2H21015068",
+            "photos": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg/https://filer.eco-counter-tools.com/file/1b/6c9013a542a3c751f94c8b9a00db0ad3485054953a37aeddf45830482d5d311b/Y2H17021629_20200818165643.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png/https://filer.eco-counter-tools.com/file/89/a417e0e7a5a6a0be002e6b9f7f43b4db5eb3f1c15aa348294378f2b8d6cfa089/Y2H21015068_20220407102319.jpg/https://filer.eco-counter-tools.com/file/92/8dd0832756788947862701438d96ba9ac1f7524794109c2db14efa91a3e5bc92/Y2H21015068_20220803125012.jpg/https://filer.eco-counter-tools.com/file/9e/f997ab4793874f0832ae24c89ef2cafc87a78e90336527f7e9be38d0f4fec39e/15977626284870.jpg/https://filer.eco-counter-tools.com/file/a3/eb19fabc6ac19ee165b9a3d367b75c23705c0bc2ef3c0b7b4950e921840633a3/15765770808100.jpg/https://filer.eco-counter-tools.com/file/c3/3cc5746fc201948a4f89469db101780cf29dcc2c29e350f53351732871bfa5c3/Y2H17021629_20210810135800.jpg/https://filer.eco-counter-tools.com/file/d4/e8110bccec80e42806d28ea2f102e3cf93875f3e8add5dfa4ea0672af45ee3d4/14997911465211.jpg/https://filer.eco-counter-tools.com/file/d9/e055c4b719c875d6a250c8caf4ed5962c847d9d3b04251f053e86b5d088c2ad9/15767555313320.jpg/https://filer.eco-counter-tools.com/file/f2/1f6decacff618a4b568543f90909d8f562fd951737e6b8f53dbe567d64f87cf2/Y2H21015068_20250729150243.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/16/35f6b42be906d8dc8ac074b0bfc2683cec4aa3aa4cff6e964ff4a73697ed8816/Y2H21015068_20240618150003.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100036718",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100036719-103036719",
+            "nom_compteur": "18 quai de l'Hôtel de Ville SE-NO",
+            "id": "100036719",
+            "name": "18 quai de l'Hôtel de Ville",
+            "sum_counts": 192,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-07-12",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png",
+            "coordinates": {
+              "lon": 2.35702,
+              "lat": 48.85372
+            },
+            "counter": "Y2H21015012",
+            "photos": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.png/https://filer.eco-counter-tools.com/file/54/8946a312899f621b1e2c7007e9f490f297cd915b9dfee93b4c96c557d5179c54/Y2H21015012_20240613112601.jpg/https://filer.eco-counter-tools.com/file/6c/7219aac71d6d7c03b90a5eb4b59de532d908084b261509e268a150be6948b76c/Y2H21015012_20250729103525.jpg/https://filer.eco-counter-tools.com/file/9d/176068e8b3503f6b68c846ec1741b3a744b56aede12fa81bfc29fa2c82f96d9d/X2H19027732_20190507110918.jpg/https://filer.eco-counter-tools.com/file/bd/7b7d73a0893fc9813d303fa82a8aec6a2888b910e721b344fe519737bf51e1bd/14997911939232.jpg/https://filer.eco-counter-tools.com/file/cc/7ee37fd33279ac655cb94dac2f5cabe37169064be3d172305eee095aa8eb48cc/Y2H21015012_20220407113640.jpg/https://filer.eco-counter-tools.com/file/cd/d97fc859bef5a19d217f46db0a4ee144cfc19d12fe12a8f8f8d6d837dd05f3cd/Y2H19027732_20210810183209.jpg/https://filer.eco-counter-tools.com/file/d0/1aba92aeca91f0ea6146e062f7994959da2ade84f8c5cded3b9f1e8424ea98d0/15718218590430.jpg/https://filer.eco-counter-tools.com/file/d7/030e39ece3b9677fd4ab1c1de4370b0613ad1c4cafd810f4b06b6489f8304cd7/Y2H21015012_20220803103347.jpg/https://filer.eco-counter-tools.com/file/db/b61f852e0d3afa4b9be0cdcfe0046cb3bb330efa17c3941fae25199cf2134fdb/14997911938171.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/31/7a51f8668baa67fe9fbc33f577ca62cffa13fab69148810676d42c23d007dc31/15374519009810.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100036719",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100049407-353255860",
+            "nom_compteur": "152 boulevard du Montparnasse E-O",
+            "id": "100049407",
+            "name": "152 boulevard du Montparnasse",
+            "sum_counts": 67,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-07",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+            "coordinates": {
+              "lon": 2.33438,
+              "lat": 48.84017
+            },
+            "counter": "Y2H25113573",
+            "photos": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg/https://filer.eco-counter-tools.com/file/25/0717fd11c1d6320ea94b1da3a5fc3689535ea807158f895f6d9854b6c9cfb125/15977486431090.jpg/https://filer.eco-counter-tools.com/file/40/b0a266d7da6aa81d9d62d801b79865da76032fa8195fd8a05863ecded4498e40/Y2H21015072_20220725180228.jpg/https://filer.eco-counter-tools.com/file/75/8e415a6dcc6c37ea40ceb0e33742220927d4408dca9035f4c82e0c676d877575/Y2H21015072_20240611130940.jpg/https://filer.eco-counter-tools.com/file/ab/745deef771e04b8924c6604c6e8dc37c04857029144dfd534917b9d09020b4ab/Y2H25113573_20260209092518.jpg/https://filer.eco-counter-tools.com/file/c1/e41b6763a01d4eb20c24e2980edc6b71e2bf27b2e43988cac0f003cdd26850c1/Y2H21015072_20250730114009.jpg/https://filer.eco-counter-tools.com/file/e6/f878f67440525b0b655421f986c63209cdfa37dad30b7151bfdd2b993361a7e6/Y2H21015072_20220704182332.jpg/https://filer.eco-counter-tools.com/file/eb/ccbd18787048eef5d2dd8a07e258adf82a5790f11f7715f61440204171aef7eb/15444529154820.jpg/https://filer.eco-counter-tools.com/file/ee/27421ed2c4c5a455ef0dafb4a4fbcbaa97e1d2e68f9268d101d227972eee7dee/Y2H21015072_20220725175806.jpg/https://filer.eco-counter-tools.com/file/f2/204b3fd2189bb9354851dd0ec2258c27b34a987180d54ea2cc65fa2b8c7914f2/Y2H21015072_20220725180122.jpg/https://filer.eco-counter-tools.com/file/fd/b8abd0eab5ee234fc661378e4d8959728488c27da4e4f39036fda84a0cbccffd/Y2H19070373_20210224152726.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/22/49c54ec11343ba66475aaef0aeaa4cde8b1e1e92bb9ae391e8d5751d5d200a22/Y2H19070373_20210810114740.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100049407",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100042374-109042374",
+            "nom_compteur": "Voie Georges Pompidou SO-NE",
+            "id": "100042374",
+            "name": "Voie Georges Pompidou",
+            "sum_counts": 59,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2017-12-15",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg",
+            "coordinates": {
+              "lon": 2.27596,
+              "lat": 48.84837
+            },
+            "counter": "Y2H21025335",
+            "photos": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg/https://filer.eco-counter-tools.com/file/68/1dce0451d633e7c432c030664bb1dc9db8403605258bb6cfbb9e76fb9e5d2668/15172173001793.jpg/https://filer.eco-counter-tools.com/file/81/3fa335611bc26cf7cf2ec3822d0618d1ec999581b67ea0e1befd6315ca0a1481/Y2H21025335_20210330155535.jpg/https://filer.eco-counter-tools.com/file/85/6f1a65ada98e5b9c30af21c28ced81ae2d1a3a91d27f7a5ec23a04f8e64dd185/15374559754710.png?filename=15374574611960.png/https://filer.eco-counter-tools.com/file/87/8c6aaf39f1e0063e0fc5aa5c3aa7c0df859d6fed1a89cf863360a16969242e87/Y2H21025335_20210330155549.jpg/https://filer.eco-counter-tools.com/file/ba/5fe72fb52db494f0260e7c0ba04938e1fe49af2d60fb9d2f3b3899a17061ddba/Y2H21025335_20240611161331.jpg/https://filer.eco-counter-tools.com/file/d3/e13e40d3b13aba5096e32a0db43cf614d3d6a285fbeb0f14f751dcc678caecd3/15172173000772.jpg/https://filer.eco-counter-tools.com/file/d8/ca09768c4eec1987378b3757922e8ef18d45c3579185f1c737b0d5c1924fdbd8/Y2H21025335_20250730152026.jpg/https://filer.eco-counter-tools.com/file/dc/ca258975923935a97c60c5ff55bcade8612078a737101f80ba28995f29f01cdc/Y2H21025335_20220802152245.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3c/2a10997edb70e56a49b040c230d44ab3c560394a4b3fcedb73c8664ffaef963c/15765772112340.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100042374",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047541-353326452",
+            "nom_compteur": "Pont National SO-NE",
+            "id": "100047541",
+            "name": "Pont National",
+            "sum_counts": 25,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg",
+            "coordinates": {
+              "lon": 2.38448,
+              "lat": 48.82639
+            },
+            "counter": "Y2H22053370",
+            "photos": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg/https://filer.eco-counter-tools.com/file/2a/799b98880f593cad49159a30639b855596a7b8448fcb43d18a3eb2f84098772a/Y2H18086317_20200818152643.jpg/https://filer.eco-counter-tools.com/file/31/b0cfcd9cae5c6be7eb8ab8f1f4a6cbd174ad43ec43da2b36df47c53997e99f31/15439382216460.jpg/https://filer.eco-counter-tools.com/file/46/19833d5d84681f9b0878bafba6e9fd1007874bf69af1261438f71f5fd0f24b46/Y2H18086317_20210810130151.jpg/https://filer.eco-counter-tools.com/file/58/4fc08ec38c1721686c18bd3da1ef49ad32c66f2bd399e0fe81ee6420b0257258/Y2H22053370_20240618143005.jpg/https://filer.eco-counter-tools.com/file/72/1094d4ef6ad32c27d538f9f31b832bd4d4b4efe3f151bbcd145eb850d1c26c72/Y2H18086317_20220407100013.jpg/https://filer.eco-counter-tools.com/file/83/4ac9d84f02dd579da38a278fcb33265550c74b79ac1ff0ff8ad423e0d5480b83/Y2H22053370_20220803150940.jpg/https://filer.eco-counter-tools.com/file/a7/a5586a2924aaa1c432a43f2354c29cd87467c13ddf54a4f2812f61b15f2034a7/Y2H22053370_20220803151051.jpg/https://filer.eco-counter-tools.com/file/eb/5b8bc60150a570dea708c0162dc9b74b7ff74411deb3285a83723fd931bfeaeb/15977572244860.jpg/https://filer.eco-counter-tools.com/file/f8/5e9dd4b050cd9da4231f345a6b474099aba60a16c00bfa912ba7cd43f1fce3f8/Y2H22053370_20220803151326.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/06/91f7bff4aa174f27cdc11688a4e868e28352ca4d15c766aaad3aa294bd70e006/Y2H22053370_20250729152402.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047541",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047544-101047544",
+            "nom_compteur": "77 boulevard Richard Lenoir N-S",
+            "id": "100047544",
+            "name": "77 boulevard Richard Lenoir",
+            "sum_counts": 140,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg",
+            "coordinates": {
+              "lon": 2.37212,
+              "lat": 48.86089
+            },
+            "counter": "Y2I19038116",
+            "photos": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg/https://filer.eco-counter-tools.com/file/a9/6bc12dbb7e8977f4dbfbc92958ccaa51a4b8619ae22c9a72005457f0f4255ca9/Y2H18086320_20200819124454.jpg/https://filer.eco-counter-tools.com/file/b7/761499aaa75296bda9206017280303c9b22fb0fedf1a8fc4b956174e754ca5b7/Y2I19038116_20240613122018.jpg/https://filer.eco-counter-tools.com/file/c0/8be5f49579ca4550980fc42b38d2cdc034f8db87fcf87c29aad3b64b613b33c0/15978339122780.jpg/https://filer.eco-counter-tools.com/file/d4/3ee69b4213d25cc8d9bb2f70b1bd29f39a840b0d3393522c85f0bcb4ed429cd4/Y2H18086320_20210811112652.jpg/https://filer.eco-counter-tools.com/file/e2/67a5191c2dfb233cf2d098c3a5b5c3e6b3725df56a08a193c4c52a0822d783e2/15765768365460.jpg/https://filer.eco-counter-tools.com/file/e2/bf93638c61837dbc5a8b8c19fe8e2b660613c147f9214d92ca2cc2d69c4363e2/Y2H18086320_20220802145309.jpg/https://filer.eco-counter-tools.com/file/e7/0e78ab1ef0e1558ed28e3c2caf7d5ef5c4d04f51e365be18377390b69c82e2e7/Y2I19038116_20250729115813.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/52/7ff65a7049156d4d7c9e7cc37fb33c8ec8af83e7f55fb2e20a334b270fc77f52/X2I19038116_20221116124347.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047544",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047536-101047536",
+            "nom_compteur": "102 boulevard de Magenta SE-NO",
+            "id": "100047536",
+            "name": "102 boulevard de Magenta",
+            "sum_counts": 403,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-11-29",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg",
+            "coordinates": {
+              "lon": 2.35475,
+              "lat": 48.87769
+            },
+            "counter": "Y2H18086312",
+            "photos": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg/https://filer.eco-counter-tools.com/file/21/5b84f531a108dc2abe1dc1d2e1231da228d1cfecb0b84a2441bce8da54eeab21/Y2H18086312_20220802134752.jpg/https://filer.eco-counter-tools.com/file/37/67b4163798426a06286e8fce9a2161f435c131584c8687013dadd7b0c3805337/Y2H18086312_20240612154529.jpg/https://filer.eco-counter-tools.com/file/b6/72970d0bc0a40addd263df5139e511e9a1f6f6ceaaa854fa148b101f375dfeb6/Y2H18086312_20250729102029.jpg/https://filer.eco-counter-tools.com/file/e6/f1722de135aef7122b1bc5f38e53e8f58cd948e19f34eae9de3d8f79f12ba5e6/Y2H18086312_20210811132353.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/03/e22cb73a54d7e02b34309861a9184b1d57d842bc4c1c74b21b80b80029cfde03/15765760456770.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047536",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047539-101047539",
+            "nom_compteur": "21 boulevard Auguste Blanqui SO-NE",
+            "id": "100047539",
+            "name": "21 boulevard Auguste Blanqui",
+            "sum_counts": 34,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-12-05",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg",
+            "coordinates": {
+              "lon": 2.35373,
+              "lat": 48.83074
+            },
+            "counter": "Y2H22114921",
+            "photos": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg/https://filer.eco-counter-tools.com/file/4e/cb0ec53163a3972a27fb4a06fbb7cf64b74ff78e82470add3144690bcb58144e/Y2H22114921_20240618122257.jpg/https://filer.eco-counter-tools.com/file/5c/1526f97a18f6845eefac473d5b76aed4055e87d15541359eacd31928ee2be05c/Y2H18086315_20220803100106.jpg/https://filer.eco-counter-tools.com/file/86/22afe09d2544d85d66deb0edf62cca114ca8287cf225b246afa67d4efe61d186/15765761696560.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/3c/0a611c65acd8aed69650795741ba186e7aed70601a048f37a3ff9d611d20153c/Y2H18086315_20210810121708.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047539",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100044494-353504987",
+            "nom_compteur": "10 avenue de la Grande Armée SE-NO",
+            "id": "100044494",
+            "name": "10 avenue de la Grande Armée",
+            "sum_counts": 63,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2025-01-07",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg",
+            "coordinates": {
+              "lon": 2.2924,
+              "lat": 48.8748
+            },
+            "counter": "X2H20012081",
+            "photos": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg/https://filer.eco-counter-tools.com/file/6f/990cf85630e9a7369683ceca24e8b72b2796b3dbaec82406bfbb8ee9a7dc906f/15765753078770.jpg/https://filer.eco-counter-tools.com/file/93/0f9896bc2167e519ab0b70529ceaeda4f2654ceb86f3b428cae3b1d8ce8ec593/Y2H18034808_20210811095605.jpg/https://filer.eco-counter-tools.com/file/d2/5286f624fca83b5191f9222ff37b5d3088434b1de41aeb8838db9447c7473bd2/Y2H18034808_20240611104602.jpg/https://filer.eco-counter-tools.com/file/e2/7f164e641e5ad325dac8336abb960f02a6c4e826908333cbb1f00f0a8bf42be2/Y2H18034808_20220802130746.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/26/1dcc19e56a6a49e32a11188851837ac7ea99511a2ab43a041467d138da492826/Y2H18034808_20220802130754.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100044494",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100044495-101044495",
+            "nom_compteur": "7 avenue de la Grande Armée NO-SE",
+            "id": "100044495",
+            "name": "7 avenue de la Grande Armée",
+            "sum_counts": 60,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-07-27",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg",
+            "coordinates": {
+              "lon": 2.29219,
+              "lat": 48.87474
+            },
+            "counter": "Y2H19070340",
+            "photos": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg/https://filer.eco-counter-tools.com/file/58/2bd84088e967a80c49dffbb62895a796ef71a45a1d8235ad3b8e51ca8d94f958/15718268955250.jpg/https://filer.eco-counter-tools.com/file/83/1e892beccf18a25cbb9ace3827486af0ae54c101addbed8959f717699e45fc83/Y2H18034806_20210811100124.jpg/https://filer.eco-counter-tools.com/file/8f/ab6275133072426487720794af19ebfb2ba25006fedf54165aa0d47099d9978f/Y2H18034806_20220802134231.jpg/https://filer.eco-counter-tools.com/file/9d/12bde557443c776977c872826cf4ee45338dc0cda053a54e3a749161b5ff039d/Y2H18034806_20240611105211.jpg/https://filer.eco-counter-tools.com/file/b0/833ce8b21144851fea9db16e422986dfef27c41a7395dd8c7fc4e798a41531b0/Y2H19070340_20250730105758.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/43/34d53e202c3a1a82e46f3ac5262239f166ddaf1178d036aa669d9abc79a36843/15302615766480.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100044495",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100047533-101047533",
+            "nom_compteur": "89 boulevard de Magenta NO-SE",
+            "id": "100047533",
+            "name": "89 boulevard de Magenta",
+            "sum_counts": 498,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2018-11-28",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg",
+            "coordinates": {
+              "lon": 2.35535,
+              "lat": 48.87756
+            },
+            "counter": "Y2H18086309",
+            "photos": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg/https://filer.eco-counter-tools.com/file/19/5c8e475d2cdb5d3c67b8f12550f341656199c6c27ed1458c0bd8c7b0279f2919/Y2H18086309_20210811133208.jpg/https://filer.eco-counter-tools.com/file/48/4b322b77bb102481b9b6b9e0abfaa448eb9cd56d2705dd36305f48325d561548/15434006878980.jpg/https://filer.eco-counter-tools.com/file/62/9d4fd080712401a0face0523d12e95a9c73a9429635ccc6dbac4d2ee3e899862/Y2H18086309_20250729103623.jpg/https://filer.eco-counter-tools.com/file/af/9972044d188d2cba90f454786f4a0c78780ad6ad46120e922cc7a5a800fe29af/Y2H18086309_20220802135826.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/01/fed5a559f4bd18043b175d089ff3ed7f7dfbf176212ed0dbbb7062de9dd01f01/Y2H18086309_20240612154153.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100047533",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100007049-102007049",
+            "nom_compteur": "28 boulevard Diderot E-O",
+            "id": "100007049",
+            "name": "28 boulevard Diderot",
+            "sum_counts": 3,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2013-01-18",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "coordinates": {
+              "lon": 2.37559,
+              "lat": 48.84613
+            },
+            "counter": "Y2H21015011",
+            "photos": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg/https://filer.eco-counter-tools.com/file/6b/84e46df62589a66a0827954c6c07947e87f1e1d5c80724efc19efaf54a67386b/Y2H21015011_20250729122942.jpg/https://filer.eco-counter-tools.com/file/81/7d5f7058df9d97404fb0067e49039a2a022ea3f5a732b5e54b7d2ed90afab981/Y2H21015011_20240618154402.jpg/https://filer.eco-counter-tools.com/file/9b/531a0daddb4be5433a86cb09dc36f92b25c7bd4ea5c93c7c3146181d9625539b/13585075886520.jpg/https://filer.eco-counter-tools.com/file/d0/5539296cbf2bbb9fb37428bdb5bd6fe499ea5843de9de9605700c783eaa879d0/Y2H21015011_20220407110305.jpg/https://filer.eco-counter-tools.com/file/f7/4f2f37a5b343c214e4cc32c80e8de78de6afb907af12505592b2bd2f190671f7/Y2H21015011_20220725182819.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100007049",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100007049-101007049",
+            "nom_compteur": "28 boulevard Diderot O-E",
+            "id": "100007049",
+            "name": "28 boulevard Diderot",
+            "sum_counts": 37,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2013-01-18",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "coordinates": {
+              "lon": 2.37559,
+              "lat": 48.84613
+            },
+            "counter": "Y2H21015011",
+            "photos": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg/https://filer.eco-counter-tools.com/file/6b/84e46df62589a66a0827954c6c07947e87f1e1d5c80724efc19efaf54a67386b/Y2H21015011_20250729122942.jpg/https://filer.eco-counter-tools.com/file/81/7d5f7058df9d97404fb0067e49039a2a022ea3f5a732b5e54b7d2ed90afab981/Y2H21015011_20240618154402.jpg/https://filer.eco-counter-tools.com/file/9b/531a0daddb4be5433a86cb09dc36f92b25c7bd4ea5c93c7c3146181d9625539b/13585075886520.jpg/https://filer.eco-counter-tools.com/file/d0/5539296cbf2bbb9fb37428bdb5bd6fe499ea5843de9de9605700c783eaa879d0/Y2H21015011_20220407110305.jpg/https://filer.eco-counter-tools.com/file/f7/4f2f37a5b343c214e4cc32c80e8de78de6afb907af12505592b2bd2f190671f7/Y2H21015011_20220725182819.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/4a/2e6127480864e11e9bd152969a114c01c26ea9434bdd7813bc618f511a21b04a/Y2H21015011_20220407110543.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100007049",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056330-104056330",
+            "nom_compteur": "36 quai de Grenelle NE-SO",
+            "id": "100056330",
+            "name": "36 quai de Grenelle",
+            "sum_counts": 209,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-11-14",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg",
+            "coordinates": {
+              "lon": 2.28593,
+              "lat": 48.85174
+            },
+            "counter": "Y2H19070376",
+            "photos": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg/https://filer.eco-counter-tools.com/file/22/f2b04d7909bde6f71130f1a0e7ff7959732b28031e4330e59e95928764ffca22/Y2H19070376_20250730150007.jpg/https://filer.eco-counter-tools.com/file/4e/562b5762fd1dbed8166ee43a9a2801387dcbc84b082a3a770586d6620053894e/15737373429050.jpg/https://filer.eco-counter-tools.com/file/6f/2629d687ad9418045da34373ac809349a79354f50f5f90f0f58eca3948d9f36f/Y2H19070376_20240611162743.jpg/https://filer.eco-counter-tools.com/file/9f/b1b1e1192bfc079c65589f8ad74d2604f3a807149d98e18f5e32400ad914c79f/Y2H19070376_20220802145741.jpg/https://filer.eco-counter-tools.com/file/b4/57578de5621fc9c351ea9780dd1eefd64380f1a4430299b60ff805410994fcb4/Y2H19070376_20200818101459.jpg/https://filer.eco-counter-tools.com/file/c8/1932f6144154526287d914bcbb8271403118c5d1e46625c53d24fe97a5e751c8/15977385285420.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/4ebfdd5384e167f012fc311e1a3a73270b8474101790209102781cb9538f561c/Y2H19070376_20210810095739.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056330",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056334-103056334",
+            "nom_compteur": "38 rue Turbigo NE-SO",
+            "id": "100056334",
+            "name": "38 rue Turbigo",
+            "sum_counts": 16,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-12-10",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+            "coordinates": {
+              "lon": 2.35387,
+              "lat": 48.86502
+            },
+            "counter": "Y2H18086325",
+            "photos": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg/https://filer.eco-counter-tools.com/file/47/eb5266d3c3a40112152ca8740ee3390f7281c3aea3eb701388ad75c6b8859a47/Y2H19070380_20220802142556.jpg/https://filer.eco-counter-tools.com/file/62/0e0c75a4501eb0b6371e4433951aa7363fd5c611dd001568e240749cf7a29362/Y2H19070380_20210811110713.jpg/https://filer.eco-counter-tools.com/file/8c/b64697b4add975d0fd8c5cb1f26179a693ff34505d6e0b6be807746d472fa08c/Y2H19070380_20240612160642.jpg/https://filer.eco-counter-tools.com/file/a6/00134892759dacd8bbc6b388c2ee0e7548c75ba7e8ec76dc1f27f7e11cb7d7a6/Y2H18086325_20250729110226.jpg/https://filer.eco-counter-tools.com/file/ca/9c4a084b6343b05b184db150520e8c956fb56f97cad66decbd04754d98ab3fca/Y2H18086325_20250107094243.jpg/https://filer.eco-counter-tools.com/file/d1/e2ee9e25e5d8c6f9d7f8f77ab73c6db973a2696abe18e3dcc9d8d3386478e1d1/15765765524970.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/15/47e3cc73aec63c263ee5c1ef04d75aa9a07e161f579c6326f5056c6a48c80915/Y2H18086325_20250107090721.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056334",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056047-101056047",
+            "nom_compteur": "Pont de la Concorde S-N",
+            "id": "100056047",
+            "name": "Pont de la Concorde",
+            "sum_counts": 241,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-11-08",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+            "coordinates": {
+              "lon": 2.3202,
+              "lat": 48.8638
+            },
+            "counter": "Y2H24062200",
+            "photos": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg/https://filer.eco-counter-tools.com/file/26/ababdc9bb3857b985a60ae3c221cef8c20da44d1dee21217bdd0e26b0b1e5226/Y2H19070356_20240611122908.jpg/https://filer.eco-counter-tools.com/file/8f/13d561336b1c303df625b61c17c0d3d95c0ceef13545325e254624aac65acf8f/Y2H24062200_20240710144510.jpg/https://filer.eco-counter-tools.com/file/a1/4331f8e00541bdefdab20153f119323407863599e51a206768356ee68fdc17a1/Y2H24062200_20251209143305.jpg/https://filer.eco-counter-tools.com/file/a4/888294b28a23039cad9a6ad58914cc34dfbaaf70e26798ccd774c282aa10a0a4/Y2H24062200_20251209140814.jpg/https://filer.eco-counter-tools.com/file/a7/e0d933fb5667fa50a352ebc8eed42600197276fa2dc6c07858dec9edd78e51a7/Y2H24062200_20251209141408.jpg/https://filer.eco-counter-tools.com/file/af/8afea9a00ef79995adb33c88a65d790b7fa4761066528cf18476c7f95a147aaf/Y2H24062200_20251209141420.jpg/https://filer.eco-counter-tools.com/file/bc/dbd3853731127099186eeed06ea18eb118c5833f0b5c83c7730b4f6d4c54a0bc/15765769360530.jpg/https://filer.eco-counter-tools.com/file/cc/30eecc62b9a3b7944ac2cf0cae13cd28171a629a35b074bea4f4594faafd9bcc/Y2H19070356_20210810190805.jpg/https://filer.eco-counter-tools.com/file/ed/99986b1ba7303390b60beb5b64132efcb20c24298fdf3b3ca797750d6e1367ed/Y2H24062200_20251209140743.jpg/https://filer.eco-counter-tools.com/file/ef/29e62047a5565a578e772cd824eae927f6aa55f0838b3388030e080e914078ef/Y2H24062200_20251209140803.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/1c/ed8df6b50c5c90962cdf5b5919b60e401f86d7f5efa33d2382969ae36fce121c/Y2H24062200_20250730124647.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056047",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100050876-104050876",
+            "nom_compteur": "Totem 64 Rue de Rivoli O-E",
+            "id": "100050876",
+            "name": "Totem 64 Rue de Rivoli",
+            "sum_counts": 411,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-09-04",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "coordinates": {
+              "lon": 2.35211,
+              "lat": 48.85735
+            },
+            "counter": "YTH19037970",
+            "photos": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/b5/0b7ff66e3691ec45884b7126743451f2bbcbf28529d2ced6a350eaee1bfe33b5/15886904766270.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100050876",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "100056038-101056038",
+            "nom_compteur": "44 avenue des Champs Elysées SE-NO",
+            "id": "100056038",
+            "name": "44 avenue des Champs Elysées",
+            "sum_counts": 147,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2019-10-30",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+            "coordinates": {
+              "lon": 2.30743,
+              "lat": 48.86999
+            },
+            "counter": "Y2H21111077",
+            "photos": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg/https://filer.eco-counter-tools.com/file/4e/6c224ead19f662ff59f031db31ad6079eea7d686677e832d010bf4f6f6ef944e/Y2H21111077_20240611111029.jpg/https://filer.eco-counter-tools.com/file/5f/d4d5c5bd654cf989713a8f698321451b3dece54ebf77786882cf5b2ea879345f/Y2H19070341_20220802124458.jpg/https://filer.eco-counter-tools.com/file/a2/1b49ad9585537d0bfea08557e7701197df5aee498f0df73cf65ba3bba02946a2/Y2H19070341_20210811093328.jpg/https://filer.eco-counter-tools.com/file/c1/c8f68c0bbec73d4fd7b0eaa8d23145541a6eb88080702028ee0c4133f6d4d8c1/15724491524180.jpg/https://filer.eco-counter-tools.com/file/c2/446934aa78ee806e7627399b5b94b7ed7fb5071447db686d1e5e17568ab2cac2/Y2H21111077_20240405093953.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/11/b08755fbf80a33a89ffe21bce0a7ccedc5f40946e2c72dc9b22ba1de8edd1c11/Y2H21111077_20250730115506.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/100056038",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          },
+          {
+            "id_compteur": "300030173-353355292",
+            "nom_compteur": "77 boulevard Masséna NE-SO",
+            "id": "300030173",
+            "name": "77 boulevard Masséna",
+            "sum_counts": 38,
+            "date": "2026-06-21T21:00:00+00:00",
+            "installation_date": "2023-01-26",
+            "url_photos_n1": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg",
+            "coordinates": {
+              "lon": 2.368576,
+              "lat": 48.821204
+            },
+            "counter": "Y2H22115077",
+            "photos": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg/https://filer.eco-counter-tools.com/file/a5/af693484a312f98a5e6c7d6ce132d3052af89d78c9ed34a724ae42f1663531a5/Y2H22115077_20240618133103.jpg/https://filer.eco-counter-tools.com/file/db/09513ec95d163eb6ce0a1bcef5951e539416362e0ca5ed7c484df8dec42ef3db/Y2H22115077_20230126155031.jpg",
+            "test_lien_vers_photos_du_site_de_comptage_": "https://filer.eco-counter-tools.com/file/52/aa8b9d6790d5c2ecfefa50f5c6ee1cc2fdb5bbcaa073cd3339304045e83e9a52/Y2H22115077_20250730153725.jpg",
+            "id_photo_1": "https:",
+            "url_sites": "https://www.eco-visio.net/Photos/300030173",
+            "type_dimage": "jpg",
+            "mois_annee_comptage": "2026-06"
+          }
+        ]
+      }
+    ]
+  }
+}
