@@ -19,4 +19,5 @@ dist/
 .DS_Store
 
 # Logs
-*.log
+*.log.env
+*.env

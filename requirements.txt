@@ -16,3 +16,4 @@ pymongo
 httpx
 fastapi
 uvicorn
+pyjwt
