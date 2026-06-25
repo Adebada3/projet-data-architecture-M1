@@ -48,7 +48,11 @@ export default function App() {
   }
 
   return (
-    <div style={{ display: "flex", flexDirection: "column", height: "100vh", background: "#0f1117", color: "#e8e6df", fontFamily: "system-ui, sans-serif" }}>
+    <div style={{
+      display: "flex", flexDirection: "column",
+      width: "100vw", height: "100vh",
+      overflow: "hidden", background: "#f8fafc"
+    }}>
       <Header
         compareMode={compareMode}
         setCompareMode={setCompareMode}
@@ -66,7 +70,13 @@ export default function App() {
             compareMode={compareMode}
           />
         </div>
-        <div style={{ width: 380, background: "#161820", borderLeft: "1px solid #2a2d3a", overflowY: "auto" }}>
+        <div style={{
+          width: 360, height: "100%",
+          background: "#ffffff",
+          borderLeft: "1px solid #e2e8f0",
+          overflowY: "auto",
+          display: "flex", flexDirection: "column"
+        }}>
           {compareMode && compareArr.length > 0 ? (
             <ComparePanel
               compareArr={compareArr}
